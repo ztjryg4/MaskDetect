@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>1000.jpg</filename>
+	<path>/Users/liubeiming/Desktop/mask-dataset/part1/data/1000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>554</width>
+		<height>295</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wrongmask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>9</ymin>
+			<xmax>399</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

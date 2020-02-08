@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>af71-innckce7580378.jpg</filename>
+	<path>/Users/liubeiming/Desktop/mask-dataset/part1/data/af71-innckce7580378.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>343</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rightmask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>170</ymin>
+			<xmax>288</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

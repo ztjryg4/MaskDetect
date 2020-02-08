@@ -1,0 +1,6 @@
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_69.jpg 19,25,215,390,2 234,58,458,419,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_123.jpg 123,104,179,170,0 276,79,326,150,0 418,106,475,173,0 604,50,663,131,0 832,57,901,145,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_106.jpg 91,52,224,237,0 322,36,438,206,2 204,121,296,228,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_30.jpg 592,242,654,337,0 356,221,396,304,0 270,161,365,295,0 83,94,228,277,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_53.jpg 18,67,130,170,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_93.jpg 655,179,721,237,2

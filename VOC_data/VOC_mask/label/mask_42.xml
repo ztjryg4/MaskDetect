@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>u=3640541973,3881621575&amp;fm=27&amp;gp=0.jpg</filename>
+	<path>/Users/liubeiming/Desktop/mask-dataset/part1/data/u=3640541973,3881621575&amp;fm=27&amp;gp=0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>519</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rightmask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>53</ymin>
+			<xmax>379</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

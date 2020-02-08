@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>chenxx3525_b.jpg</filename>
+	<path>/Users/liubeiming/Desktop/mask-dataset/part1/data/chenxx3525_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rightmask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>71</ymin>
+			<xmax>521</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,23 @@
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_101.jpg 188,79,247,158,0 272,76,309,119,0 78,54,128,116,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_98.jpg 169,116,196,149,0 224,46,268,97,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_118.jpg 133,40,405,422,0 577,32,886,498,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_52.jpg 199,234,396,512,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_112.jpg 257,106,330,196,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_87.jpg 198,38,334,201,0 342,75,504,249,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_104.jpg 75,86,227,279,0 327,116,432,260,0 761,54,888,236,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_65.jpg 246,158,443,379,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_84.jpg 277,42,371,138,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_128.jpg 163,14,329,253,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_64.jpg 126,60,224,169,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_31.jpg 23,116,56,153,0 109,116,145,149,0 200,108,232,144,0 279,97,311,149,0 342,106,387,161,0 464,96,496,158,0 392,87,409,114,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_130.jpg 235,74,284,155,0 278,76,332,152,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_113.jpg 460,134,538,234,1 546,184,606,255,2 153,89,257,195,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_137.jpg 35,38,307,475,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_4.jpg 249,25,367,190,1 465,108,562,240,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_15.jpg 100,32,314,332,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_17.jpg 483,84,612,263,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_41.jpg 358,52,505,250,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_56.jpg 390,224,570,416,0 124,91,198,198,2 1059,147,1118,237,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_27.jpg 453,80,620,376,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_14.jpg 59,115,247,459,1 298,163,450,431,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_16.jpg 184,111,256,203,0 332,64,407,181,0 262,124,306,178,2 153,144,194,199,2

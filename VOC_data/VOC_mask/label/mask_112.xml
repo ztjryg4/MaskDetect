@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>jksb2016032923p20_b.jpg</filename>
+	<path>/Users/liubeiming/Desktop/mask-dataset/part1/data/jksb2016032923p20_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>242</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nomask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>106</ymin>
+			<xmax>330</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>

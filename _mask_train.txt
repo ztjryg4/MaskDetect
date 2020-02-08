@@ -1,0 +1,118 @@
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_68.jpg 854,16,1080,357,0 1237,209,1413,489,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_117.jpg 346,221,444,403,0 559,242,687,428,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_86.jpg 380,2,500,153,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_89.jpg 20,40,153,223,0 158,5,301,218,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_103.jpg 557,76,720,281,0 985,96,1095,283,0 456,63,570,262,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_96.jpg 108,124,202,205,0 364,59,494,219,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_37.jpg 404,119,463,219,2 479,134,566,260,2 25,148,178,340,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_22.jpg 181,35,243,118,0 3,53,63,140,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_45.jpg 22,204,53,241,2 74,206,100,243,2 342,186,388,254,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_135.jpg 235,179,257,211,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_66.jpg 250,12,447,333,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_82.jpg 246,36,279,95,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_32.jpg 68,137,151,257,2 375,15,521,186,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_72.jpg 127,62,181,139,0 359,440,386,472,0 423,395,466,446,2 395,417,429,459,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_146.jpg 190,6,474,471,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_139.jpg 208,62,244,115,0 274,81,309,131,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_115.jpg 259,4,347,146,0 388,197,469,303,0 495,113,592,262,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_99.jpg 34,78,88,140,0 299,96,340,142,0 133,97,167,151,2 189,108,220,151,2 229,110,257,150,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_20.jpg 180,87,314,217,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_100.jpg 83,202,262,417,2 308,256,418,435,0 528,232,624,409,0 816,282,957,464,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_51.jpg 62,46,187,231,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_28.jpg 8,155,171,364,0 236,246,445,527,0 659,232,799,504,0 775,355,952,609,0 1,294,82,499,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_21.jpg 325,35,360,81,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_131.jpg 77,40,172,145,1 300,82,425,253,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_67.jpg 14,31,453,336,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_79.jpg 212,74,380,318,0 505,11,669,227,0 968,83,1094,283,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_74.jpg 90,58,200,186,0 394,141,457,224,0 555,15,649,158,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_6.jpg 284,181,332,221,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_39.jpg 57,109,84,140,2 494,65,530,114,2 371,73,407,129,2 331,74,361,123,2 256,87,285,130,2 209,99,234,133,2 111,77,149,126,2 146,73,172,126,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_145.jpg 231,116,311,294,0 441,14,650,322,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_59.jpg 207,140,245,194,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_33.jpg 222,93,287,170,0 367,29,452,131,0 24,252,92,297,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_63.jpg 332,191,356,220,0 437,228,471,271,0 468,182,500,229,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_142.jpg 73,42,111,103,0 138,36,178,99,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_0.jpg 125,251,169,302,0 164,253,202,297,0 217,208,248,245,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_7.jpg 124,95,162,146,0 343,64,393,132,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_77.jpg 294,64,447,328,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_11.jpg 84,94,176,215,0 306,80,387,203,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_129.jpg 155,34,410,403,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_122.jpg 111,40,176,135,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_71.jpg 49,7,152,108,0 169,44,232,119,0 338,120,378,181,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_50.jpg 1160,1156,1438,1497,2 183,1147,501,1447,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_76.jpg 103,17,153,104,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_119.jpg 204,1,299,176,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_105.jpg 240,1,284,61,2 298,4,339,62,2 97,31,140,81,2 149,14,197,62,2 31,99,93,177,2 430,6,464,64,2 403,1,438,42,2 1,147,75,238,2 327,125,387,214,2 408,175,445,229,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_94.jpg 148,141,190,191,0 213,165,240,211,0 252,156,287,209,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_125.jpg 146,3,232,126,0 249,107,332,235,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_29.jpg 381,121,510,256,2 363,165,397,200,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_44.jpg 1711,758,2336,1634,0 2836,866,3227,1476,0 3611,966,4286,1784,0 4502,900,5094,1884,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_42.jpg 58,53,379,498,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_92.jpg 187,4,366,271,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_58.jpg 77,47,101,79,2 161,48,181,77,2 188,63,217,97,2 87,71,112,105,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_49.jpg 259,25,376,211,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_43.jpg 205,125,265,190,0 347,95,390,165,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_38.jpg 964,113,1261,479,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_80.jpg 175,179,353,402,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_40.jpg 1769,783,2336,1617,0 2811,858,3294,1484,0 3627,958,4202,1759,0 4469,908,5086,1892,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_8.jpg 668,288,1199,900,0 1711,207,2199,853,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_124.jpg 407,71,521,242,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_75.jpg 214,19,266,95,0 473,13,533,90,0 574,32,617,89,0 399,96,446,158,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_35.jpg 113,25,199,163,0 81,25,131,134,2 300,39,355,124,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_2.jpg 48,130,90,186,0 80,247,121,295,0 235,92,272,153,0 298,98,341,169,0 422,99,468,163,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_3.jpg 239,3,430,283,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_114.jpg 172,201,231,272,0 118,209,172,271,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_95.jpg 132,80,244,261,2 441,127,534,291,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_108.jpg 224,26,673,576,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_13.jpg 401,122,519,277,0 242,128,350,307,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_34.jpg 254,206,282,239,0 405,232,429,260,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_1.jpg 70,17,141,103,0 462,21,522,95,0 316,63,339,102,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_36.jpg 412,199,463,274,2 712,310,769,385,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_111.jpg 299,198,336,266,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_46.jpg 43,2,136,92,2 233,28,321,150,0 356,3,431,97,0 486,1,575,114,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_88.jpg 61,6,235,226,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_127.jpg 262,285,309,349,0 91,270,149,338,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_83.jpg 146,144,241,249,0 226,163,280,225,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_133.jpg 178,8,264,163,0 343,53,432,206,0 455,69,562,214,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_110.jpg 279,320,440,538,0 813,52,1113,479,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_19.jpg 301,71,393,214,0 128,82,219,213,2 17,13,109,183,2 570,5,695,196,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_138.jpg 579,369,718,555,0 748,310,898,519,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_60.jpg 258,170,288,224,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_140.jpg 425,166,497,243,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_141.jpg 85,54,171,159,0 331,37,422,170,0 683,22,765,143,0 852,96,903,166,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_90.jpg 134,102,192,191,0 277,92,334,190,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_70.jpg 59,61,91,99,0 20,45,49,80,0 4,62,29,97,0 153,75,199,136,0 321,3,366,59,0 319,74,353,128,0 250,62,287,121,0 177,55,213,100,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_136.jpg 1126,824,1651,1566,0 2626,899,3076,1633,0 4260,1074,4793,1808,0 326,1083,751,1616,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_143.jpg 248,275,337,389,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_120.jpg 31,12,253,285,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_85.jpg 378,219,423,288,0 483,248,523,312,0 596,205,641,265,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_54.jpg 466,88,635,319,2 919,98,1074,286,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_91.jpg 65,227,107,281,1 652,203,689,240,2 335,207,378,250,0 405,223,436,263,0 495,227,543,290,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_23.jpg 311,32,379,120,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_109.jpg 286,168,370,271,0 121,137,191,234,0 598,43,677,172,0 792,312,867,409,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_132.jpg 459,246,519,328,0 323,250,385,332,2 230,211,297,313,2 157,230,200,324,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_10.jpg 194,238,254,307,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_18.jpg 171,41,264,195,0 347,80,438,241,0 454,99,568,251,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_55.jpg 126,253,167,307,0 162,255,207,292,0 218,210,247,250,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_134.jpg 237,28,382,206,2 137,394,318,635,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_25.jpg 2163,529,2588,1129,0 2663,395,3071,995,0 3354,820,3729,1362,0 2863,1937,3338,2520,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_116.jpg 99,10,404,471,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_24.jpg 703,291,1187,903,0 1753,211,2191,841,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_107.jpg 50,79,89,141,0 226,46,265,121,0 305,46,362,129,0 391,21,449,117,0 151,65,194,139,1 187,55,229,130,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_26.jpg 416,14,844,642,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_62.jpg 253,62,360,189,2 404,246,489,355,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_121.jpg 142,25,254,160,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_73.jpg 394,134,486,253,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_61.jpg 413,113,492,218,0 194,67,300,210,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_97.jpg 528,123,588,217,2 452,106,526,223,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_78.jpg 94,86,165,169,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_9.jpg 320,125,336,153,0 274,141,294,170,0 200,134,215,156,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_5.jpg 216,153,268,221,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_47.jpg 431,56,486,138,0 313,96,344,150,0 192,132,226,173,0 75,79,111,133,2 146,58,181,110,2
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_81.jpg 383,103,448,183,1 237,93,264,125,1 164,97,197,146,1 50,111,105,179,0 91,95,136,162,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_144.jpg 106,1,355,384,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_57.jpg 185,38,629,698,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_12.jpg 264,9,399,192,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_48.jpg 188,27,326,221,1
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_102.jpg 125,22,319,332,2 357,8,552,341,2 521,108,702,430,0
+/home/zhangtj/keras-yolo3/VOC_data/VOC_mask/img/mask_126.jpg 243,92,431,351,1
