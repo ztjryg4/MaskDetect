@@ -25,7 +25,9 @@
 ### 开始测试  
 
 对于图片：`python3 yolo_video.py [OPTIONS...] --image`  
+
 对于视频：`python3 yolo_video.py [video_path] [output_path (optional)]`  
+
 `yolo_video.py` 完整的选项可以通过 `python3 yolo_video.py --help` 查看。  
 
 ## 训练  
