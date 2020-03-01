@@ -1,3 +1,2 @@
-rightmask
-wrongmask
+havemask
 nomask
