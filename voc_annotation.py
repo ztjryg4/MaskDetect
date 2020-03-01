@@ -4,11 +4,11 @@ from os import getcwd
 sets=[('_mask', 'train'), ('_mask', 'val'), ('_mask', 'test')]
 
 # classes = ["aeroplane", "bicycle", "bird", "boat", "bottle", "bus", "car", "cat", "chair", "cow", "diningtable", "dog", "horse", "motorbike", "person", "pottedplant", "sheep", "sofa", "train", "tvmonitor"]
-classes = ["rightmask","wrongmask","nomask"]
+classes = ["havemask","nomask"]
 
 
 def convert_annotation(year, image_id, list_file):
-    in_file = open('VOC_data/VOC%s/label/%s.xml'%(year, image_id))
+    in_file = open('VOC_data/VOC%s/label/%s.xml'%(year, image_id), encoding='utf-8')
     tree=ET.parse(in_file)
     root = tree.getroot()
 
