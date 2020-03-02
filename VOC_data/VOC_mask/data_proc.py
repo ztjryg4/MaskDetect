@@ -68,3 +68,50 @@ def check():
             checkfile = open(xmlpath,"r")
             if checkword in checkfile.read():
                 data_log.add(xmlpath,log)
+
+def sample_statistics():
+    xmldir = "label/"
+
+    log = data_log.start("samplelog")
+    havemask_face_cnt = 0
+    nomask_face_cnt = 0
+
+    havemask_img_cnt = 0
+    nomask_img_cnt = 0
+    mix_img_cnt = 0
+
+    for xmlpath in glob.glob(xmldir+"*xml"):
+        cur_havemask_cnt = 0
+        cur_nomask_cnt = 0
+        tree = et.parse(xmlpath)
+        root = tree.getroot()
+        all_obj = root.findall('object')
+        for curobj in all_obj:
+            name = curobj.find("name")
+            if name.text == "havemask":
+                havemask_face_cnt = havemask_face_cnt + 1
+                cur_havemask_cnt = cur_havemask_cnt + 1
+                print(xmlpath)
+            elif name.text == "nomask":
+                nomask_face_cnt = nomask_face_cnt + 1
+                cur_nomask_cnt = cur_nomask_cnt + 1
+                print(xmlpath)
+            else:
+                data_log.add(xmlpath,log)
+        if cur_havemask_cnt == 0 and cur_nomask_cnt != 0:
+            nomask_img_cnt = nomask_img_cnt + 1
+        elif cur_havemask_cnt != 0 and cur_nomask_cnt == 0:
+            havemask_img_cnt = havemask_img_cnt + 1
+        elif cur_havemask_cnt != 0 and cur_nomask_cnt != 0:
+            mix_img_cnt = mix_img_cnt + 1
+        else:
+            data_log.add(xmlpath,log)
+
+    print("havemask_face: ", havemask_face_cnt)
+    print("nomask_face: ", nomask_face_cnt)
+
+    print("havemask_img: ", havemask_img_cnt)
+    print("nomask_img: ", nomask_img_cnt)
+    print("mix_img: ", mix_img_cnt)
+    
+sample_statistics()
