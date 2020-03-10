@@ -2,7 +2,9 @@ import glob
 import os
 import shutil
 import xml.etree.ElementTree as et
+
 import data_log
+
 
 def img_cmp():
     imgDir = "img/"
@@ -26,22 +28,21 @@ def img_cmp():
         # print(imgPath)
 
 def modify_text():
-    xmldir = "label_nomask/"
+    xmldir = "label/"
 
     log = data_log.start("modifylog")
     
     for xmlpath in glob.glob(xmldir+"*xml"):
+        print(xmlpath)
         tree = et.parse(xmlpath)
         root = tree.getroot()
         all_obj = root.findall('object')
         for curobj in all_obj:
             name = curobj.find("name")
-            if name.text == "have_mask":
+            if name.text == "mask":
                 name.text = "havemask"
-                print(xmlpath)
             elif name.text == "no_mask":
                 name.text = "nomask"
-                print(xmlpath)
             else:
                 data_log.add(xmlpath,log)
         tree.write(xmlpath)
@@ -113,5 +114,52 @@ def sample_statistics():
     print("havemask_img: ", havemask_img_cnt)
     print("nomask_img: ", nomask_img_cnt)
     print("mix_img: ", mix_img_cnt)
+
+def oversample():
+    imgdir = "joint_mask_dataset_oversample/image/"
+    xmldir = "joint_mask_dataset_oversample/label/"
     
-sample_statistics()
+    log = data_log.start("oversamplelog")
+    for xmlpath in glob.glob(xmldir+"*xml"):
+        
+        xmlpath_u1 = xmlpath.split(".xml")[0]+"_o1.xml"
+        xmlpath_u2 = xmlpath.split(".xml")[0]+"_o2.xml"
+
+        imgpath = xmlpath.replace("label","image").replace(".xml",".jpg")
+        imgpath_u1 = imgpath.split(".jpg")[0]+"_o1.jpg"
+        imgpath_u2 = imgpath.split(".jpg")[0]+"_o2.jpg"
+
+        cur_havemask_cnt = 0
+        cur_nomask_cnt = 0
+        tree = et.parse(xmlpath)
+        root = tree.getroot()
+        all_obj = root.findall('object')
+        for curobj in all_obj:
+            name = curobj.find("name")
+            if name.text == "havemask":
+                cur_havemask_cnt = cur_havemask_cnt + 1
+                print(xmlpath)
+            elif name.text == "nomask":
+                cur_nomask_cnt = cur_nomask_cnt + 1
+                print(xmlpath)
+            else:
+                data_log.add(xmlpath,log)
+        if cur_havemask_cnt == 0 and cur_nomask_cnt != 0:
+            # nomask
+            pass
+        elif cur_havemask_cnt != 0 and cur_nomask_cnt == 0:
+            # havemask
+            shutil.copyfile(imgpath,imgpath_u1)
+            shutil.copyfile(imgpath,imgpath_u2)
+            shutil.copyfile(xmlpath,xmlpath_u1)
+            shutil.copyfile(xmlpath,xmlpath_u2)
+        elif cur_havemask_cnt != 0 and cur_nomask_cnt != 0:
+            # mix
+            pass
+
+
+
+# sample_statistics()
+# modify_text()
+# check()
+oversample()
