@@ -1,496 +1,811 @@
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00022.jpg 226,57,465,356,0 658,36,871,323,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00026.jpg 186,1,563,493,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00106.jpg 317,58,612,438,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00117.jpg 210,28,491,371,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00168.jpg 161,20,435,398,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00174.jpg 293,5,464,202,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00191.jpg 349,55,458,191,0 729,201,874,351,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00197.jpg 285,15,597,408,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00203.jpg 416,59,571,256,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00271.jpg 157,120,349,338,0 463,42,684,320,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00319.jpg 445,17,706,305,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00363.jpg 243,177,362,316,0 527,29,702,228,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00387.jpg 502,27,704,273,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00438.jpg 359,44,642,354,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00471.jpg 480,177,552,250,0 876,242,942,292,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00511.jpg 249,67,506,372,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00512.jpg 371,20,649,336,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00527.jpg 305,125,419,242,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00540.jpg 406,63,578,324,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00544.jpg 281,142,788,835,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00548.jpg 285,134,701,659,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00569.jpg 325,173,724,687,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00576.jpg 290,79,401,223,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00629.jpg 318,108,464,291,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00640.jpg 354,95,691,550,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00653.jpg 306,97,732,669,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00666.jpg 325,129,437,247,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00667.jpg 295,126,449,279,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00675.jpg 259,84,407,272,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00687.jpg 388,24,487,139,1 585,46,668,127,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00728.jpg 271,116,382,236,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00735.jpg 236,96,689,642,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00751.jpg 286,99,418,254,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00777.jpg 211,78,869,1061,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00796.jpg 292,126,429,270,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00809.jpg 342,82,819,653,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00825.jpg 98,97,163,185,1 195,99,258,202,1 249,145,288,224,1 292,113,353,197,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00832.jpg 101,108,299,411,1 332,125,552,399,1 732,47,945,338,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00859.jpg 554,3,732,227,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00869.jpg 377,182,537,372,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00880.jpg 247,17,444,266,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00902.jpg 345,549,909,1281,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00917.jpg 281,348,423,538,1 495,397,654,613,1 771,407,938,606,1 399,83,551,262,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00946.jpg 156,61,351,332,1 531,68,714,295,1 800,168,941,417,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_00966.jpg 252,117,631,544,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01009.jpg 337,92,640,452,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01055.jpg 185,3,353,193,1 616,85,755,242,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01063.jpg 391,178,711,530,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01072.jpg 271,105,406,261,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01171.jpg 437,85,552,253,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01177.jpg 82,37,243,237,1 137,319,192,400,1 428,101,565,262,1 831,78,871,138,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01187.jpg 414,144,570,388,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01263.jpg 186,216,396,384,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01293.jpg 882,166,919,233,1 399,62,435,118,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01340.jpg 446,172,563,332,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01353.jpg 464,389,533,482,1 626,367,704,460,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01393.jpg 436,128,602,382,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01398.jpg 457,97,516,167,1 29,126,60,173,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01424.jpg 91,195,315,493,1 394,276,526,442,1 712,144,993,519,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01425.jpg 419,664,862,1243,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01428.jpg 668,290,687,318,1 736,283,755,314,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01481.jpg 444,117,505,168,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01498.jpg 270,110,326,188,1 722,62,784,150,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01521.jpg 398,6,636,288,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01524.jpg 121,183,163,240,1 252,149,312,225,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01531.jpg 312,220,656,574,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01533.jpg 480,226,558,332,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01534.jpg 781,249,922,444,1 88,144,255,379,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01540.jpg 535,261,631,393,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01554.jpg 416,128,646,456,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01593.jpg 314,110,392,226,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01596.jpg 254,18,546,438,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01597.jpg 342,100,546,376,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01629.jpg 434,42,538,194,1 804,58,914,224,1 114,58,216,198,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01650.jpg 324,26,678,454,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01663.jpg 654,46,770,218,1 280,54,392,208,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01701.jpg 636,176,808,418,1 196,130,402,496,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01739.jpg 196,0,612,532,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01782.jpg 376,140,718,634,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01784.jpg 370,109,619,448,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01801.jpg 750,1045,771,1076,1 850,969,879,1008,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01804.jpg 510,176,1011,680,1 320,490,359,534,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01834.jpg 241,275,738,997,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01904.jpg 392,229,688,650,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01986.jpg 385,151,594,450,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_01998.jpg 438,284,540,422,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02003.jpg 204,94,562,590,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02019.jpg 501,99,645,288,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02037.jpg 396,65,640,459,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02061.jpg 678,201,775,349,1 276,173,383,352,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02086.jpg 436,196,850,548,1 58,14,414,350,1 404,612,726,889,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02126.jpg 201,144,244,212,1 762,97,814,181,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02170.jpg 392,751,444,830,1 626,771,668,842,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02226.jpg 102,70,320,394,1 254,120,422,436,1 578,48,694,210,1 754,118,868,284,1 574,442,630,538,1 842,394,908,482,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02232.jpg 320,170,426,225,1 620,96,671,199,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02268.jpg 725,178,771,266,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02357.jpg 235,211,550,628,1 615,438,800,652,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02364.jpg 567,49,648,157,1 534,0,568,38,1 368,56,401,93,1 242,0,278,45,1 966,8,997,48,1 880,15,906,48,1 774,0,798,27,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02387.jpg 0,170,83,315,1 140,121,216,239,1 219,43,292,155,1 343,45,413,145,1 568,48,632,132,1 759,104,826,181,1 968,108,1024,237,1 913,137,985,235,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02414.jpg 738,150,780,200,1 581,274,629,333,1 519,226,570,278,1 475,174,528,227,1 424,265,472,316,1 387,323,431,375,1 270,306,305,335,1 328,204,371,254,1 283,205,307,242,1 211,230,253,289,1 706,218,750,269,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02417.jpg 351,75,519,327,1 563,200,734,447,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02518.jpg 436,216,684,528,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02631.jpg 342,476,784,906,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02664.jpg 248,381,563,773,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02708.jpg 448,130,554,298,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02756.jpg 328,141,725,679,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02776.jpg 236,236,737,925,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02780.jpg 302,499,675,998,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02794.jpg 132,178,362,364,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02798.jpg 538,10,614,110,1 674,52,734,146,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02828.jpg 425,301,850,873,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02841.jpg 304,144,442,326,1 698,240,802,412,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02847.jpg 44,192,75,241,1 358,203,387,238,1 512,220,525,239,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02855.jpg 572,24,848,424,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02857.jpg 90,563,155,640,1 120,537,190,617,1 265,554,317,622,1 313,561,371,620,1 398,581,446,651,1 500,570,552,642,1 609,527,667,602,1 802,509,861,584,1 833,542,881,617,1 955,571,1011,632,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02865.jpg 392,68,548,274,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02869.jpg 310,42,438,228,1 784,22,924,226,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02939.jpg 334,160,450,326,1 570,56,692,244,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02942.jpg 413,126,632,381,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_02974.jpg 644,72,724,174,1 270,42,367,157,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03043.jpg 642,6,702,122,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03047.jpg 458,276,600,464,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03056.jpg 293,217,472,456,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03112.jpg 368,380,532,596,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03132.jpg 506,124,690,388,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03152.jpg 310,90,460,288,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03165.jpg 541,145,656,309,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03239.jpg 480,298,610,402,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03270.jpg 324,84,426,252,1 602,122,698,270,1 720,532,838,676,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03271.jpg 871,240,897,272,1 36,216,47,249,1 218,142,263,207,1 529,197,564,247,1 689,223,716,267,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03292.jpg 414,146,514,290,1 594,178,712,336,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03315.jpg 526,122,634,238,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03328.jpg 514,180,612,286,1 302,298,374,372,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03335.jpg 442,30,498,104,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03338.jpg 531,169,780,587,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03340.jpg 532,88,608,176,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03370.jpg 630,120,850,406,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03400.jpg 462,70,606,270,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03446.jpg 410,186,531,338,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03491.jpg 297,225,311,248,1 571,184,610,227,1 830,251,842,269,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03496.jpg 444,210,501,291,1 492,706,561,817,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03506.jpg 322,240,402,342,1 530,118,600,208,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03551.jpg 354,162,602,432,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03606.jpg 554,164,814,408,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03620.jpg 410,198,624,452,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03622.jpg 594,104,660,184,1 108,282,172,328,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03627.jpg 458,374,596,552,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03667.jpg 830,114,1000,330,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03678.jpg 457,206,598,402,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03715.jpg 476,300,560,392,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03738.jpg 436,226,616,450,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03753.jpg 25,282,67,340,1 64,235,121,321,1 207,235,251,294,1 371,175,431,269,1 450,96,560,251,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03776.jpg 528,140,654,320,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03810.jpg 748,300,814,345,1 494,42,525,80,1 762,772,843,825,1 716,1044,782,1085,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03834.jpg 728,208,820,356,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03840.jpg 214,222,446,466,1 580,140,754,340,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03848.jpg 394,286,588,560,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03906.jpg 284,101,327,137,1 751,313,795,354,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03947.jpg 150,148,480,634,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03963.jpg 498,246,640,438,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_03994.jpg 190,178,286,328,1 594,294,702,446,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04006.jpg 242,244,442,484,1 564,172,680,430,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04014.jpg 837,249,892,315,1 649,101,704,167,1 568,78,623,150,1 444,156,490,219,1 317,117,373,190,1 382,127,428,178,1 765,266,795,317,1 532,397,561,450,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04033.jpg 239,469,275,521,1 335,439,372,480,1 393,563,442,614,1 593,601,623,682,1 710,570,763,634,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04048.jpg 407,137,477,234,1 633,145,708,260,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04081.jpg 324,78,662,406,1 820,32,1022,360,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04099.jpg 364,353,387,392,1 205,379,231,416,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04106.jpg 280,32,662,548,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04133.jpg 336,42,416,180,1 560,61,646,212,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04134.jpg 502,88,594,266,1 636,74,746,272,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04174.jpg 350,57,406,154,1 483,344,523,402,1 657,120,716,203,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04213.jpg 310,288,436,484,1 544,200,682,414,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04220.jpg 344,347,428,485,1 539,353,629,470,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04238.jpg 209,322,410,504,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04289.jpg 266,258,406,476,1 596,108,766,322,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04316.jpg 289,307,735,807,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04320.jpg 348,118,490,302,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04347.jpg 288,204,565,552,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04351.jpg 459,85,630,317,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04377.jpg 437,175,612,463,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04379.jpg 467,130,594,324,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04390.jpg 491,256,584,398,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04433.jpg 484,84,606,290,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04478.jpg 136,46,230,188,1 418,42,508,184,1 786,74,890,216,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04516.jpg 410,250,709,671,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04542.jpg 410,115,551,345,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04565.jpg 202,67,282,181,1 683,69,776,197,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04595.jpg 819,75,908,192,1 512,36,541,72,1 548,34,566,55,1 456,48,476,72,1 249,6,280,43,1 313,20,337,56,1 301,23,324,63,1 401,66,429,102,1 179,44,194,62,1 78,34,112,72,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04602.jpg 293,123,410,317,1 537,111,654,271,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04624.jpg 110,66,203,224,1 9,87,90,203,1 188,110,254,191,1 239,182,346,340,1 367,155,594,474,1 696,107,845,298,1 830,90,920,272,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04655.jpg 214,42,276,130,1 786,68,850,164,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04675.jpg 638,82,902,558,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04694.jpg 510,94,562,188,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04724.jpg 274,20,756,512,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04773.jpg 379,331,758,766,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04859.jpg 286,184,422,356,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04882.jpg 596,538,639,578,1 830,663,867,704,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04981.jpg 586,146,726,350,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_04987.jpg 614,173,755,382,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05067.jpg 60,1,131,103,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05074.jpg 329,260,722,784,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05078.jpg 54,30,128,132,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05080.jpg 36,135,98,237,1 456,183,506,258,1 599,143,639,244,1 279,100,351,204,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05109.jpg 172,296,609,915,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05148.jpg 73,100,163,234,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05153.jpg 116,75,212,209,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05201.jpg 74,32,117,93,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05202.jpg 4,129,40,164,0 127,64,172,122,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05211.jpg 162,45,222,125,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05248.jpg 73,32,139,124,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05252.jpg 177,38,221,100,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05262.jpg 33,135,85,193,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05266.jpg 93,51,193,206,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05285.jpg 87,63,216,252,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05350.jpg 127,61,173,114,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05409.jpg 73,109,141,199,0 274,103,338,182,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05413.jpg 305,58,415,193,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05465.jpg 51,22,97,76,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05512.jpg 279,190,595,635,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05547.jpg 180,58,226,136,0 221,60,269,135,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05570.jpg 345,178,589,604,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05608.jpg 691,209,794,375,0 332,143,442,322,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05759.jpg 154,35,401,377,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05777.jpg 80,33,122,103,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05778.jpg 255,454,466,714,0 263,113,443,352,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05812.jpg 82,11,220,209,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05833.jpg 181,109,341,345,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05843.jpg 382,189,491,358,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05876.jpg 149,88,418,490,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05903.jpg 170,120,337,348,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05918.jpg 65,11,158,136,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05928.jpg 182,90,287,227,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05932.jpg 279,168,488,427,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05935.jpg 130,40,284,299,1 4,217,105,393,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_05988.jpg 75,34,126,100,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06018.jpg 97,244,180,359,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06031.jpg 119,86,264,258,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06034.jpg 35,8,129,133,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06062.jpg 286,71,457,267,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06071.jpg 141,104,254,259,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06080.jpg 116,48,232,219,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06129.jpg 193,57,296,211,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06134.jpg 350,82,496,263,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06151.jpg 174,82,259,168,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06167.jpg 86,92,145,172,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06185.jpg 176,48,585,567,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06192.jpg 99,67,206,208,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06193.jpg 215,77,526,487,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06213.jpg 145,165,410,524,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06217.jpg 352,117,509,296,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06229.jpg 310,160,488,386,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06250.jpg 72,22,144,111,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06282.jpg 259,202,560,563,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06346.jpg 73,1,175,122,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06370.jpg 239,85,461,439,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06382.jpg 59,26,102,72,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06396.jpg 340,65,461,215,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06408.jpg 356,100,541,308,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06431.jpg 228,89,349,234,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06438.jpg 86,24,138,87,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06458.jpg 210,184,508,555,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06476.jpg 408,504,517,668,0 408,41,517,206,0 37,39,144,204,0 226,507,326,672,0 222,43,328,201,0 36,504,146,668,0 221,274,331,432,0 39,274,144,429,0 409,274,518,429,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06511.jpg 435,202,577,407,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06566.jpg 102,20,159,98,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06579.jpg 108,105,436,596,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06584.jpg 43,4,163,145,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06593.jpg 295,75,427,240,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06673.jpg 34,0,135,133,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06697.jpg 364,86,469,249,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06732.jpg 63,36,143,131,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06737.jpg 330,466,583,621,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06802.jpg 41,27,117,128,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06804.jpg 30,41,141,192,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06817.jpg 437,206,671,506,0 159,318,394,609,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06819.jpg 178,175,568,657,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06839.jpg 227,314,620,852,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06861.jpg 379,163,459,273,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06873.jpg 76,127,274,361,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06900.jpg 62,26,163,162,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06946.jpg 103,1,584,454,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_06998.jpg 440,40,528,150,0 133,121,188,197,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07010.jpg 56,67,275,357,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07132.jpg 56,23,135,128,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07151.jpg 651,36,758,154,0 826,40,928,177,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07175.jpg 209,41,307,173,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07180.jpg 565,213,729,422,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07198.jpg 70,46,144,167,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07228.jpg 267,75,368,210,0 94,94,203,226,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07270.jpg 60,89,178,254,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07292.jpg 56,96,256,374,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07311.jpg 76,28,134,104,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07390.jpg 3,129,139,300,0 350,111,444,233,1 152,52,307,257,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07400.jpg 721,230,762,318,1 296,65,367,162,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07427.jpg 780,160,972,410,1 170,158,390,415,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07443.jpg 201,42,324,208,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07461.jpg 91,19,233,235,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07483.jpg 97,103,349,452,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07496.jpg 152,103,429,453,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07509.jpg 233,60,292,134,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07539.jpg 432,167,607,380,1 183,134,377,343,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07541.jpg 220,150,454,462,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07552.jpg 170,260,258,384,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07649.jpg 132,46,165,84,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07654.jpg 241,206,417,532,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07673.jpg 159,1,421,334,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07674.jpg 340,507,459,648,0 80,525,172,642,1 661,519,768,646,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07729.jpg 111,192,231,355,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07745.jpg 289,443,488,683,0 54,211,277,506,0 498,242,703,510,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07761.jpg 208,157,501,552,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07762.jpg 323,142,579,527,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07770.jpg 193,179,530,625,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07811.jpg 86,103,350,459,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07816.jpg 130,78,259,258,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07830.jpg 44,15,135,126,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07831.jpg 128,95,250,252,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07871.jpg 143,90,309,315,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07897.jpg 44,12,106,98,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07922.jpg 69,68,209,257,0 237,69,377,248,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07964.jpg 179,72,237,166,0 27,136,114,265,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_07967.jpg 147,28,179,80,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08009.jpg 237,94,377,233,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08014.jpg 371,140,433,222,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08055.jpg 62,100,108,159,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08125.jpg 162,76,220,161,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08160.jpg 435,184,601,416,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08201.jpg 385,374,567,660,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08203.jpg 206,176,285,294,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08228.jpg 240,125,288,193,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08259.jpg 23,78,168,281,1 203,270,269,365,1 152,18,187,72,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08263.jpg 142,167,410,548,0 566,170,821,542,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08264.jpg 107,163,353,506,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08281.jpg 187,100,221,153,1 167,335,213,390,1 143,334,175,392,1 158,90,192,145,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08284.jpg 435,98,467,144,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08290.jpg 462,92,578,228,1 113,75,230,210,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08296.jpg 165,0,263,123,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08311.jpg 273,178,607,629,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08312.jpg 262,88,335,179,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08353.jpg 325,135,398,225,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08356.jpg 176,65,323,253,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08370.jpg 89,70,152,159,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08388.jpg 202,60,477,502,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08402.jpg 222,181,533,622,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08419.jpg 133,67,229,182,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08479.jpg 96,79,167,201,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08498.jpg 211,26,445,300,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08521.jpg 558,124,769,367,0 110,108,332,377,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08522.jpg 178,71,246,164,1 467,74,527,154,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08530.jpg 86,21,142,81,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08553.jpg 293,192,528,493,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08577.jpg 331,83,473,270,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08587.jpg 113,99,444,579,0 522,8,855,465,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08591.jpg 114,88,191,192,1 401,116,473,213,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08649.jpg 70,34,141,123,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08730.jpg 182,127,241,206,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08742.jpg 112,72,231,224,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08749.jpg 317,116,378,213,0 51,532,79,578,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08750.jpg 279,123,353,236,1 109,106,174,190,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08790.jpg 222,147,289,228,0 332,95,396,179,0 138,151,184,196,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08809.jpg 280,109,521,414,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08852.jpg 436,121,673,430,0 149,198,383,496,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08920.jpg 152,89,438,419,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_08967.jpg 193,69,435,356,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09064.jpg 226,8,402,248,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09085.jpg 220,166,338,336,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09109.jpg 176,6,383,324,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09115.jpg 39,1,144,139,0 54,324,143,455,0 244,309,350,440,0 256,1,345,144,0
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09128.jpg 391,105,503,244,1 683,171,747,273,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09177.jpg 89,71,178,185,1 503,97,640,284,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09254.jpg 99,70,130,119,1 160,67,210,126,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09255.jpg 521,155,721,440,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09343.jpg 436,24,521,167,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09407.jpg 127,47,172,113,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09413.jpg 276,116,375,247,1 503,125,588,251,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09457.jpg 340,143,354,168,1 514,258,557,318,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09459.jpg 114,245,198,339,1 350,2,460,103,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09520.jpg 344,210,565,532,1 615,410,809,743,1 1048,295,1281,660,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09578.jpg 171,51,242,122,1 306,32,378,113,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09586.jpg 407,34,464,86,1 696,34,762,112,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09590.jpg 197,68,320,153,1 559,227,604,271,1 627,262,676,313,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09600.jpg 75,83,122,136,1 150,108,191,158,1 251,105,290,147,1 356,43,403,94,1 483,88,525,133,1 572,106,624,147,1 651,103,682,146,1 695,100,725,139,1 776,36,814,77,1 853,55,880,90,1 1011,30,1099,122,1 922,206,992,263,1 614,270,672,306,1 441,215,459,231,1 541,117,569,149,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09631.jpg 533,66,597,123,1 357,217,398,247,1 288,248,313,275,1 111,380,134,404,1 55,345,95,372,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09656.jpg 62,91,220,209,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09671.jpg 298,101,482,375,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09716.jpg 422,191,552,372,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09722.jpg 200,102,358,237,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09744.jpg 190,42,205,59,1 221,31,248,58,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09761.jpg 208,109,298,209,1 707,71,786,152,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09787.jpg 93,292,350,591,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09788.jpg 629,363,785,596,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09794.jpg 482,177,525,226,1 423,174,462,230,1 393,177,424,219,1 304,184,337,228,1 255,184,284,221,1 230,190,255,227,1 171,196,197,236,1 143,207,161,234,1 639,172,673,223,1 679,185,711,226,1 595,185,627,227,1 548,172,586,225,1 208,209,231,238,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09806.jpg 285,71,359,126,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09859.jpg 404,133,557,247,1 150,157,213,215,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09871.jpg 118,52,227,201,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09878.jpg 1453,970,1871,1655,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09956.jpg 193,43,271,95,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09984.jpg 393,108,550,236,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_09999.jpg 437,237,755,482,1 1223,106,1583,476,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10026.jpg 855,112,1048,282,1 337,219,530,360,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10054.jpg 133,91,218,167,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10062.jpg 341,72,405,165,1 104,102,185,199,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10090.jpg 137,254,418,499,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10092.jpg 209,107,276,166,1 556,103,608,141,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10115.jpg 3094,696,3814,1876,1 2660,903,3100,1556,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10156.jpg 964,225,1094,396,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10158.jpg 2354,826,2876,1319,1 3098,396,3417,967,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10170.jpg 332,143,498,258,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10194.jpg 337,278,587,458,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10202.jpg 401,67,445,107,1 324,96,392,176,1 277,41,349,100,1 169,78,224,146,1 32,54,100,116,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10242.jpg 332,365,453,477,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10276.jpg 907,257,1131,595,1 485,194,781,648,1 1187,585,1370,887,1 1448,509,1696,778,1 1824,474,2000,647,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10287.jpg 165,115,248,183,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10301.jpg 319,140,459,265,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10310.jpg 514,294,629,389,1 691,286,771,373,1 290,305,417,408,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10313.jpg 417,57,514,138,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10378.jpg 36,95,108,147,1 157,138,212,176,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10387.jpg 536,515,1329,1112,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10432.jpg 54,249,100,291,1 240,256,275,300,1 379,266,420,306,1 516,253,551,300,1 617,236,657,287,1 694,244,737,297,1 798,236,841,275,1 979,222,1007,271,1 1063,212,1129,278,1 1166,222,1209,266,1 1222,206,1262,263,1 1327,227,1389,303,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10449.jpg 851,611,918,696,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10459.jpg 463,104,617,317,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10467.jpg 150,75,245,184,1 383,46,472,164,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10474.jpg 529,97,623,213,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10553.jpg 33,65,94,136,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10567.jpg 563,82,674,195,1 899,201,1006,329,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10618.jpg 1225,124,1397,374,1 1489,128,1673,350,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10636.jpg 1053,1091,1248,1324,1 1364,1008,1603,1263,1 1759,1091,1970,1335,1 1920,869,2075,1113,1 2142,1013,2364,1308,1 2248,746,2470,1008,1 2520,758,2864,1141,1 3098,808,3381,1108,1 3492,285,3859,785,1 4275,763,4675,1246,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10676.jpg 379,119,473,216,1 558,58,658,176,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10690.jpg 265,111,481,363,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10701.jpg 1180,188,1438,390,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10706.jpg 348,1003,502,1162,1 792,954,943,1162,1 1192,1049,1327,1225,1 1670,598,1951,1006,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10721.jpg 129,43,198,149,1 192,110,258,193,1 330,95,378,164,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10723.jpg 146,274,326,421,1 606,162,755,321,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10760.jpg 52,151,96,219,1 140,195,184,242,1 136,133,184,188,1 211,167,254,231,1 407,179,438,231,1 517,158,558,213,1 565,170,599,218,1 668,200,702,242,1 731,197,770,244,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10817.jpg 522,142,643,253,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10827.jpg 441,262,462,290,1 235,178,252,200,1 146,107,162,126,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10863.jpg 86,177,318,419,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10884.jpg 866,44,1115,287,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10898.jpg 332,102,655,350,1 812,87,1063,350,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10940.jpg 242,126,385,301,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10954.jpg 864,184,1058,442,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10971.jpg 349,92,389,141,1 307,86,339,134,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10973.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_10992.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11008.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11012.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11016.jpg 177,273,232,374,1 373,239,446,338,1 586,235,673,336,1 812,262,881,348,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11094.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11132.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11176.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11181.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11189.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11236.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11256.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11258.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11285.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11339.jpg 837,141,853,162,1 851,119,864,135,1 826,103,834,121,1 897,115,908,135,1 875,92,891,107,1 798,87,810,103,1 821,72,839,86,1 789,67,799,77,1 760,80,771,92,1 763,102,780,122,1 779,102,791,122,1 687,115,699,136,1 701,91,716,108,1 697,69,707,82,1 730,67,740,80,1 741,77,755,88,1 680,60,689,75,1 664,88,681,109,1 648,113,667,131,1 629,95,641,111,1 561,116,578,135,1 593,112,610,133,1 532,93,544,107,1 497,95,517,108,1 445,100,462,117,1 451,80,464,98,1 350,98,364,113,1 354,88,372,104,1 399,89,408,103,1 420,76,433,89,1 299,108,321,124,1 499,61,511,69,1 504,75,515,90,1 464,69,474,86,1 474,65,486,76,1 546,71,564,84,1 587,50,595,61,1 601,75,617,92,1 627,68,640,84,1 644,51,659,68,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11376.jpg 132,251,257,414,1 405,309,503,442,1 607,301,700,413,1 754,288,831,378,1 872,297,933,375,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11386.jpg 409,471,638,721,1 1,372,125,595,1 279,301,378,438,1 26,146,84,219,1 227,204,297,302,1 544,239,625,322,1 799,188,893,314,1 918,166,985,261,1 657,173,728,264,1 353,172,417,250,1 493,148,554,227,1 623,115,671,174,1 668,284,784,422,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11393.jpg 503,139,528,174,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11395.jpg 1013,1345,1281,1715,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11423.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11459.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11490.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11563.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11584.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11587.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11593.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11612.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11642.jpg 245,78,416,309,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11643.jpg 62,132,95,176,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11657.jpg 106,142,185,239,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11661.jpg
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11680.jpg 218,53,322,190,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11722.jpg 156,100,308,326,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11723.jpg 715,176,785,293,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11736.jpg 329,92,374,146,1 154,75,212,147,1 240,115,287,164,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11739.jpg 317,339,450,537,1 857,300,1005,509,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11744.jpg 167,44,228,141,1 345,105,389,161,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11765.jpg 24,25,112,140,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11780.jpg 37,128,143,263,1 306,163,389,293,1 376,124,470,263,1 545,143,639,254,1 721,147,806,271,1 898,167,974,287,1 1119,191,1180,282,1 1269,167,1321,269,1 1358,184,1419,289,1 1506,176,1565,269,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11880.jpg 648,629,736,751,1 775,688,846,788,1 963,639,1051,749,1 1202,605,1290,724,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11884.jpg 107,32,171,100,1 259,53,314,100,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11886.jpg 632,156,833,397,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11945.jpg 99,159,141,215,1 339,151,378,208,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11974.jpg 38,75,88,140,1 123,109,161,158,1 204,68,249,118,1 300,107,353,159,1 354,92,394,141,1 461,58,500,107,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_11980.jpg 239,76,310,139,1 410,101,440,137,1 109,79,142,103,1 1,82,28,121,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_12043.jpg 134,21,156,46,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_12059.jpg 153,35,177,73,1 223,32,247,68,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_12124.jpg 489,211,775,573,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_12159.jpg 16,218,278,492,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_12203.jpg 44,149,102,221,1 181,56,248,139,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_12205.jpg 107,75,404,424,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_12209.jpg 1634,449,1844,698,1 1050,177,1183,359,1 331,868,504,1086,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_12243.jpg 61,130,215,328,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_12258.jpg 482,28,635,230,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_12280.jpg 175,251,400,506,1
-D:\2020Äê00º®¼Ù\mask-detect\MaskDetectV2/VOC_data/VOC_mask/img/mask_12282.jpg 293,127,536,380,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02133.jpg 346,242,568,590,1 562,226,772,578,1 608,44,692,162,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07623.jpg 143,56,176,109,0 241,121,268,165,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08788.jpg 174,68,254,184,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08298.jpg 121,33,256,216,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06522.jpg 76,21,334,366,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00308_o1.jpg 142,1,555,382,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08574.jpg 279,50,318,114,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05322_o1.jpg 203,84,249,153,0 60,131,104,192,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03477.jpg 225,74,279,158,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03196.jpg 440,323,614,563,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09125.jpg 165,102,204,166,1 346,105,385,166,1 412,77,454,143,1 9,77,47,131,1 38,36,73,91,1 250,61,284,114,1 222,47,255,92,1 177,71,210,117,1 368,60,397,110,1 341,62,377,112,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02467.jpg 156,130,468,306,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03264.jpg 483,305,555,414,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00013_o2.jpg 539,33,749,343,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07531_o2.jpg 63,35,106,87,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05619.jpg 495,367,539,429,1 157,337,205,407,1 278,324,338,405,0 645,272,682,386,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02062.jpg 399,202,526,371,1 487,547,658,786,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00007_o1.jpg 206,73,330,191,0 649,197,752,315,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08995.jpg 273,43,377,207,0 226,562,330,696,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02023.jpg 454,152,619,394,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11169_o1.jpg 991,307,1407,686,0 1685,481,1797,590,0 1497,244,1553,300,0 957,207,1010,283,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06767_o2.jpg 330,151,667,616,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09065_o1.jpg 1,91,200,360,0 332,143,486,341,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05517_o2.jpg 47,0,137,112,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05929_o1.jpg 70,131,344,625,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02319.jpg 364,216,576,500,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11210.jpg 1813,503,2005,676,0 1673,441,1788,542,0 1604,446,1684,520,0 1245,388,1342,466,0 736,387,846,490,0 581,408,720,536,0 360,458,491,608,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00795.jpg 267,156,396,300,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03089.jpg 678,138,908,462,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05320_o2.jpg 84,54,130,110,0 130,36,199,116,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08374_o1.jpg 130,189,216,301,0 468,83,571,209,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00002_o1.jpg 344,30,709,464,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05401_o1.jpg 102,114,211,275,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10221.jpg 526,80,634,151,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05494.jpg 116,45,576,661,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05645_o2.jpg 288,53,338,147,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02626.jpg 562,199,739,416,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11353.jpg 1971,690,2210,990,1 1263,1260,1526,1531,1 2689,1207,2907,1452,1 1253,1802,1571,2362,1 2335,1555,2546,1768,1 3,1301,139,1629,1 585,1291,875,1480,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03890.jpg 364,360,428,456,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01400.jpg 438,110,584,274,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06911_o1.jpg 288,73,517,406,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00104.jpg 81,57,270,280,0 502,74,633,224,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01616.jpg 162,144,354,414,1 624,100,810,344,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00704.jpg 185,85,401,395,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09988.jpg 266,47,333,172,1 345,95,404,214,1 513,82,600,216,1 72,182,196,291,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05148_o1.jpg 73,100,163,234,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11490_o2.jpg 1014,213,1156,374,0 1283,268,1408,404,0 1456,312,1581,451,0 1880,292,2013,451,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02870.jpg 364,248,460,390,1 540,170,638,318,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06574_o2.jpg 124,237,243,407,0 306,281,397,414,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03330.jpg 546,104,672,260,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00381_o1.jpg 299,52,548,374,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00041_o2.jpg 378,62,612,385,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04588.jpg 348,86,461,230,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10344.jpg 252,82,303,148,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08595.jpg 412,236,611,499,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11412_o1.jpg 1078,154,1325,518,0 1603,113,1763,324,0 953,106,1075,335,0 239,118,410,354,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03808.jpg 662,208,760,350,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08679.jpg 116,44,224,194,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07364_o1.jpg 149,73,468,549,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08245_o1.jpg 41,23,152,157,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01222.jpg 32,108,594,883,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09530.jpg 201,147,355,299,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05499_o2.jpg 139,52,253,193,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09443.jpg 149,70,242,180,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10004.jpg 104,76,361,478,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08184_o1.jpg 108,66,162,135,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09344.jpg 936,80,1062,205,1 813,171,891,262,1 626,151,708,275,1 322,197,408,310,1 170,130,263,290,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08816_o1.jpg 39,48,160,223,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04802.jpg 468,96,590,270,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01397.jpg 216,88,276,168,1 712,98,778,180,1 204,366,264,454,1 736,386,790,458,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11435_o1.jpg 897,71,1277,553,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04009.jpg 821,210,917,327,1 475,230,592,371,1 379,253,476,405,1 272,124,320,190,1 46,191,118,308,1 428,226,474,306,1 771,261,802,298,1 957,307,1009,372,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03735.jpg 168,351,781,1105,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08937.jpg 121,65,175,153,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01567.jpg 248,108,322,214,1 586,120,664,236,1 790,180,874,296,1 720,380,828,520,1 294,630,360,724,1 596,664,668,786,1 732,646,810,756,1 830,656,896,752,1 248,322,352,462,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03054.jpg 307,198,560,535,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09319.jpg 197,114,353,329,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00997.jpg 55,54,188,219,1 372,50,491,203,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05411_o2.jpg 462,65,525,161,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07375_o2.jpg 173,90,348,292,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11880.jpg 648,629,736,751,1 775,688,846,788,1 963,639,1051,749,1 1202,605,1290,724,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06137_o1.jpg 105,27,293,310,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08349_o2.jpg 178,91,435,405,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03574.jpg 379,297,621,583,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06912.jpg 220,164,365,375,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00110_o2.jpg 359,5,669,334,0 235,248,327,344,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02578.jpg 92,168,362,520,1 500,84,718,428,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07279_o2.jpg 357,88,400,156,0 142,25,189,96,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00248_o1.jpg 186,3,544,373,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00906.jpg 318,110,438,269,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03325.jpg 406,98,415,112,1 635,122,647,135,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03444.jpg 346,100,670,566,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10333.jpg 231,135,268,161,1 353,90,407,134,1 68,102,122,135,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09008.jpg 328,213,485,403,0 96,168,271,373,0 342,64,417,149,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12245.jpg 182,121,318,310,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11587_o1.jpg 724,462,860,596,0 1020,496,1091,554,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10671.jpg 224,64,268,123,1 408,64,430,99,1 288,67,314,100,1 146,79,168,115,1 196,75,227,123,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05912_o1.jpg 177,163,468,525,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08063.jpg 77,337,132,416,0 277,51,377,190,0 83,20,148,100,0 123,66,167,128,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02758.jpg 115,402,766,1211,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00332_o2.jpg 416,113,517,238,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11670.jpg 217,229,356,515,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03405.jpg 233,245,828,1028,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04364.jpg 300,182,390,270,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07151_o2.jpg 651,36,758,154,0 826,40,928,177,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08252_o2.jpg 244,95,627,609,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04597.jpg 288,151,579,590,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01575.jpg 522,175,808,596,1 590,526,722,769,1 718,669,772,751,1 805,605,860,697,1 959,674,1001,732,1 410,85,438,129,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11522_o1.jpg 1048,97,1443,559,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07539.jpg 432,167,607,380,1 183,134,377,343,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09114.jpg 106,144,266,389,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07654_o1.jpg 241,206,417,532,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00038.jpg 412,116,567,291,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06329.jpg 85,62,169,162,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11559_o2.jpg 836,165,1083,445,0 1188,112,1285,278,0 1311,174,1386,292,0 1375,151,1537,381,0 1688,245,1742,313,0 1803,193,1866,296,0 1599,238,1633,270,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07089_o1.jpg 60,0,323,367,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00054.jpg 341,79,591,364,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08245.jpg 41,23,152,157,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01919.jpg 566,363,592,396,1 652,357,681,389,1 745,381,770,412,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09142.jpg 361,165,522,421,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06296.jpg 55,34,113,109,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07801_o2.jpg 157,110,382,438,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08742.jpg 112,72,231,224,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05743.jpg 190,37,461,350,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04052.jpg 534,304,636,445,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07335.jpg 608,86,724,236,0 165,197,286,324,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08619_o2.jpg 475,132,676,380,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11382.jpg 1767,1901,1975,2234,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04064.jpg 166,290,232,386,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11068_o1.jpg 348,358,469,470,0 564,328,680,431,0 758,283,864,391,0 949,270,1069,377,0 1222,285,1340,383,0 1405,333,1517,443,0 1784,389,1921,518,0 1606,329,1735,459,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08750.jpg 279,123,353,236,1 109,106,174,190,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08985.jpg 216,97,385,315,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05434_o1.jpg 317,199,622,687,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03630.jpg 434,132,696,492,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09031_o2.jpg 90,119,429,580,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02449.jpg 590,138,670,218,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02624.jpg 499,86,567,180,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01363.jpg 149,95,666,729,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05577_o1.jpg 144,51,180,94,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06058_o1.jpg 57,106,300,366,0 377,85,610,355,0 200,380,414,635,0 502,353,748,628,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06583_o1.jpg 32,20,307,422,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11612_o2.jpg 1125,337,1269,493,0 1452,454,1549,609,0 1350,351,1458,495,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08188_o1.jpg 305,16,509,274,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11573.jpg 475,92,836,535,0 813,201,1017,509,0 1028,171,1203,403,0 1392,115,1613,396,0 1885,162,1999,362,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07847.jpg 318,98,521,370,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00938.jpg 268,74,401,232,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12015.jpg 153,128,339,338,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07973_o2.jpg 208,0,457,357,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05460.jpg 261,143,412,362,0 620,250,682,372,1 16,339,51,393,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05399.jpg 259,183,379,365,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01860.jpg 580,108,724,258,1 224,178,368,318,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00453_o1.jpg 282,109,496,372,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05353_o1.jpg 105,60,183,168,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07543_o2.jpg 231,86,471,395,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01005.jpg 314,126,404,230,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05862.jpg 466,37,540,132,1 304,91,420,232,1 69,151,169,280,1 87,20,145,88,1 240,55,295,125,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04135.jpg 192,103,217,134,1 610,148,648,202,1 864,204,895,253,1 829,19,844,40,1 100,143,132,193,1 891,172,922,225,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05696_o1.jpg 46,34,136,161,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08637.jpg 411,127,465,192,1 516,95,585,162,1 121,242,181,323,1 327,408,394,510,1 293,315,382,406,1 258,240,313,337,1 517,446,613,516,1 53,212,113,306,1 357,159,398,200,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08759.jpg 160,103,247,197,0 55,99,173,254,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11628.jpg 1039,187,1141,323,0 1130,167,1299,351,0 1602,81,1764,265,0 1180,545,1345,740,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11121.jpg 437,581,563,702,0 238,447,315,508,0 770,450,826,501,0 880,569,983,669,0 1128,518,1216,608,0 1215,459,1285,548,0 1475,490,1552,565,0 1608,476,1668,539,0 1736,459,1794,513,0 1809,472,1843,510,0 1892,450,1931,493,0 1953,454,1987,492,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12006.jpg 12,89,49,137,1 119,90,148,127,1 217,108,239,134,1 174,96,193,121,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07366_o2.jpg 528,239,736,530,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00027_o2.jpg 416,47,658,335,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02356.jpg 268,174,396,438,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03814.jpg 470,150,562,254,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00061_o1.jpg 494,81,615,207,0 138,181,216,260,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09473.jpg 285,123,437,321,1 942,67,1152,323,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03734.jpg 106,295,697,929,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06445.jpg 97,1,296,272,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00377_o1.jpg 383,95,556,287,0 785,19,921,162,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11285_o1.jpg 928,262,1175,528,0 1199,325,1354,554,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06887_o1.jpg 191,56,410,359,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00922.jpg 196,11,380,280,1 644,123,825,348,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06774_o2.jpg 240,171,364,334,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04480.jpg 357,168,496,357,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11140.jpg 1068,437,1103,484,0 535,507,579,554,0 600,504,648,551,0 661,512,702,554,0 785,495,826,535,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07778_o2.jpg 158,156,387,408,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08334_o2.jpg 382,271,779,839,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11444_o2.jpg 1075,245,1169,395,0 1297,431,1444,604,0 761,295,838,378,0 1185,257,1241,328,0 1342,215,1399,285,0 1863,234,1975,320,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10039.jpg 191,46,259,97,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11070_o1.jpg 1718,222,1828,332,0 1439,275,1553,358,0 1256,276,1371,379,0 777,323,945,498,0 1085,242,1119,286,0 503,205,557,265,0 343,218,380,256,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11461.jpg 128,30,159,83,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07162_o1.jpg 101,91,277,368,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11569_o2.jpg 853,106,1139,463,0 1164,232,1328,456,0 1355,259,1495,445,0 1535,155,1789,408,0 544,173,770,471,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09679.jpg 619,321,916,589,1 1082,449,1354,646,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08920_o1.jpg 152,89,438,419,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07123_o2.jpg 23,20,69,83,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11982.jpg 137,34,171,75,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11206.jpg 1141,414,1219,500,0 1486,508,1539,607,0 1380,423,1447,501,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05759_o1.jpg 154,35,401,377,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06737_o2.jpg 330,466,583,621,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04648.jpg 774,72,823,134,1 200,127,374,359,1 118,17,263,221,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07211_o2.jpg 59,52,211,275,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00259.jpg 251,111,371,262,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05590_o1.jpg 131,423,351,783,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06797.jpg 153,150,660,753,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07945_o2.jpg 254,186,841,988,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04684.jpg 71,844,96,870,1 914,817,927,839,1 890,794,904,816,1 420,723,429,745,1 465,771,481,797,1 315,707,327,729,1 188,774,202,797,1 269,918,282,938,1 551,800,560,817,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08266_o1.jpg 256,196,470,465,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06616.jpg 47,173,79,217,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06415.jpg 201,87,267,230,1 370,137,416,199,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03741.jpg 478,180,664,400,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05965_o1.jpg 379,162,537,389,0 66,183,183,390,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02630.jpg 444,86,560,222,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05911_o1.jpg 329,176,657,637,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03174.jpg 453,178,530,283,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01356.jpg 451,60,536,183,1 96,227,141,280,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12076.jpg 391,217,495,360,1 125,240,219,372,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12217.jpg 70,61,209,226,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07570.jpg 423,104,681,465,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05289.jpg 89,69,223,269,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03619.jpg 428,274,586,476,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07476_o2.jpg 305,64,480,287,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05866_o2.jpg 61,111,327,431,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02733.jpg 358,345,391,386,1 492,341,527,387,1 673,346,709,394,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10736.jpg 710,245,931,512,1 1270,218,1425,385,1 1541,158,1664,266,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06587_o2.jpg 56,233,83,280,0 155,179,189,230,0 37,91,89,182,0 121,288,159,350,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02821.jpg 329,175,701,681,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11258_o2.jpg 1407,343,1572,489,0 1664,313,1753,402,0 1020,435,1211,621,0 298,367,365,448,0 588,287,623,334,0 632,317,674,365,0 422,352,478,408,0 372,321,416,372,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05376.jpg 150,27,251,176,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06368.jpg 196,85,321,222,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09756.jpg 448,1,607,137,1 310,127,425,226,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05381.jpg 274,221,371,341,1 589,97,689,253,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05316.jpg 36,102,79,159,0 202,40,259,115,0 166,72,206,121,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03171.jpg 536,54,604,142,0 828,84,900,182,0 88,116,142,184,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08767.jpg 386,106,502,255,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11247.jpg 799,223,927,355,0 1697,293,1800,389,0 1302,329,1353,379,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11198_o1.jpg 1294,256,1460,426,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07441_o1.jpg 296,147,578,512,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06281_o1.jpg 207,203,466,542,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02291.jpg 258,30,296,77,1 221,93,272,160,1 132,189,208,295,1 459,61,576,215,1 665,55,774,201,1 476,512,569,622,1 606,536,668,634,1 238,699,278,806,1 388,1098,434,1159,1 153,1188,182,1229,1 183,1179,203,1208,1 239,1151,265,1186,1 670,1161,699,1213,1 832,1124,866,1186,1 911,1162,968,1221,1 833,219,919,338,1 972,138,1023,249,1 273,864,342,942,1 398,823,460,906,1 740,1164,771,1219,1 712,1213,748,1261,1 42,1182,72,1224,1 109,1218,132,1271,1 418,5,489,97,1 534,1154,565,1196,1 483,1147,522,1197,1 992,1162,1024,1203,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09419.jpg 299,55,334,110,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10125.jpg 431,300,810,584,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01859.jpg 388,90,488,224,1 874,190,964,328,1 138,280,238,392,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06234_o2.jpg 226,6,493,348,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07551_o2.jpg 404,145,558,334,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06011_o1.jpg 209,61,335,227,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04963.jpg 358,154,442,256,1 482,192,562,288,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01406.jpg 182,180,223,233,1 317,188,360,240,1 440,148,482,202,1 507,186,551,245,1 617,140,671,214,1 774,164,822,233,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07317.jpg 264,206,399,399,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09227.jpg 174,18,238,111,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01870.jpg 376,186,407,226,1 340,610,389,682,1 921,411,946,442,1 946,398,963,426,1 909,418,924,438,1 843,510,879,565,1 997,413,1017,449,1 792,638,857,683,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02265.jpg 336,82,448,244,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07363.jpg 190,132,242,205,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05722_o2.jpg 728,265,1322,1037,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05955.jpg 254,70,475,351,0 62,88,266,356,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11871.jpg 792,355,857,461,1 910,352,945,409,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02138.jpg 258,186,500,350,1 600,264,886,460,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10753.jpg 42,53,97,113,1 145,47,203,123,1 243,86,301,152,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01121.jpg 304,156,404,279,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06168_o2.jpg 383,152,694,508,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00251_o1.jpg 299,25,539,332,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11013_o1.jpg 1568,328,1768,486,0 1001,303,1152,447,0 495,317,618,415,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02324.jpg 946,260,966,288,1 902,253,915,282,1 843,273,859,298,1 749,249,767,274,1 662,257,673,281,1 624,244,635,268,1 608,238,625,263,1 567,255,578,276,1 523,253,534,277,1 492,250,507,273,1 410,236,421,258,1 379,252,395,274,1 330,248,346,270,1 274,252,284,276,1 240,265,256,284,1 181,247,196,269,1 161,257,168,266,1 109,257,121,274,1 39,254,56,273,1 715,270,730,290,1 758,246,775,273,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06922_o2.jpg 104,60,137,102,0 30,42,74,104,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10998.jpg 1211,157,1632,505,0 775,387,1153,711,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00739.jpg 411,174,498,304,1 524,57,650,197,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00072_o2.jpg 273,13,612,444,0 816,242,918,394,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11007_o2.jpg 1136,452,1189,516,0 1626,625,1682,674,0 624,559,685,610,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10171.jpg 116,33,159,83,1 248,26,273,70,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01578.jpg 456,20,660,262,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02439.jpg 252,84,718,340,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04966.jpg 442,175,501,265,1 478,40,521,99,1 331,90,374,141,1 163,80,219,156,1 98,203,164,278,1 626,17,678,89,1 767,94,816,158,1 860,133,930,223,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00123_o2.jpg 402,21,626,281,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07593_o2.jpg 41,1,184,144,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06412.jpg 70,99,395,584,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06557_o1.jpg 488,81,641,252,0 370,410,521,538,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06625_o1.jpg 56,70,207,260,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05524.jpg 106,26,150,82,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07861.jpg 171,46,286,206,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06280.jpg 52,28,114,120,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06151.jpg 174,82,259,168,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01685.jpg 189,267,697,937,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10404.jpg 151,57,222,143,1 348,141,431,228,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00227_o1.jpg 328,3,652,386,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06395.jpg 171,1,395,242,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05611.jpg 189,132,423,416,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07290.jpg 142,93,370,371,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02568.jpg 470,242,640,486,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11560.jpg 179,49,279,211,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06859_o1.jpg 372,287,429,366,0 110,38,171,112,0 286,48,340,119,0 206,157,260,231,0 29,285,88,361,0 123,282,175,361,0 209,36,266,115,0 371,158,431,239,0 19,34,80,112,0 110,152,170,242,0 198,279,260,353,0 286,271,348,366,0 289,159,342,237,0 373,42,412,104,0 25,144,84,237,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07444_o1.jpg 274,77,331,147,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10957.jpg 921,321,1274,703,1 1588,221,1890,608,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07816_o1.jpg 130,78,259,258,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08983.jpg 269,190,333,266,1 357,170,430,258,1 160,223,232,300,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12209.jpg 1634,449,1844,698,1 1050,177,1183,359,1 331,868,504,1086,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11255.jpg 966,587,1144,758,0 1669,203,1768,341,0 1486,246,1585,349,0 1428,240,1491,334,0 1194,260,1273,343,0 1104,274,1186,358,0 956,232,1040,325,0 674,250,772,345,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04563.jpg 329,153,681,620,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08279.jpg 118,58,342,326,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03464.jpg 193,270,234,329,1 452,272,491,310,1 639,302,664,333,1 724,274,737,294,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08787.jpg 265,57,469,322,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04091.jpg 434,252,504,330,1 530,254,590,346,1 916,100,1022,260,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08990_o2.jpg 278,33,406,149,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05327_o2.jpg 177,43,283,173,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08827_o1.jpg 134,93,347,387,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09094_o1.jpg 38,1,312,322,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09427.jpg 52,143,70,165,1 140,121,155,139,1 103,157,136,195,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03550.jpg 607,126,757,366,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02101.jpg 182,160,362,362,1 232,212,440,380,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06561_o1.jpg 38,105,196,347,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08159.jpg 338,114,437,228,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05188_o1.jpg 180,21,231,93,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10965_o1.jpg 1143,278,1503,601,0 652,432,770,566,0 342,384,479,526,0 595,367,630,394,0 783,316,805,339,0 250,250,281,278,0 334,246,368,275,0 1878,394,1929,447,0 1688,402,1737,449,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01592.jpg 262,22,570,480,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05341_o2.jpg 189,126,220,192,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06399.jpg 148,117,285,278,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08497.jpg 199,125,539,579,0 26,38,113,145,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06449.jpg 70,137,170,256,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05068_o2.jpg 145,90,253,214,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06359.jpg 291,209,635,678,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05263.jpg 91,10,128,54,0 254,18,299,68,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00068_o1.jpg 339,13,598,360,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09879.jpg 463,185,640,300,1 655,79,802,236,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03307.jpg 660,168,892,316,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07218_o2.jpg 236,165,372,327,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06175_o2.jpg 143,68,256,198,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00121.jpg 463,64,611,228,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05642_o1.jpg 439,250,486,320,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01866.jpg 98,161,117,192,1 246,171,271,216,1 332,180,348,202,1 399,179,416,201,1 449,159,473,191,1 494,160,515,197,1 575,80,610,133,1 672,85,709,148,1 547,138,570,170,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02119.jpg 750,133,770,188,1 790,152,814,197,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01238.jpg 239,254,662,790,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01257.jpg 480,80,600,264,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11708.jpg 138,45,175,103,1 202,87,233,133,1 271,57,296,95,1 362,87,385,133,1 288,219,313,256,1 504,161,524,192,1 551,161,569,184,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00399_o1.jpg 462,130,578,269,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06430.jpg 245,87,382,266,0 126,253,195,351,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00453.jpg 282,109,496,372,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05924.jpg 333,140,484,376,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07018_o2.jpg 72,38,209,271,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11504_o2.jpg 819,118,1263,638,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06857.jpg 130,59,216,182,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07526_o1.jpg 121,35,153,87,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09721.jpg 323,137,555,346,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05551_o2.jpg 145,69,334,316,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06441_o2.jpg 221,72,336,273,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05028.jpg 410,176,672,538,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02442.jpg 196,134,528,306,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01705.jpg 222,144,294,234,1 320,144,392,254,1 776,200,868,306,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01353.jpg 464,389,533,482,1 626,367,704,460,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11606.jpg 406,240,595,493,0 711,318,853,471,0 1431,282,1561,448,0 1667,304,1833,543,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06689_o2.jpg 145,104,323,376,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01665.jpg 334,160,414,278,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11544_o1.jpg 1161,213,1311,462,0 1305,159,1420,431,0 847,154,1081,409,0 2003,262,2091,343,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06361.jpg 224,151,282,216,1 29,36,209,278,1 300,1,498,281,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06569.jpg 208,68,292,171,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00459.jpg 447,72,660,317,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00149_o1.jpg 425,26,641,265,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06498.jpg 342,104,620,467,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02444.jpg 160,118,848,546,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02282.jpg 573,1006,586,1026,1 657,1002,673,1025,1 685,1009,697,1026,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12345.jpg 523,60,617,212,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07303.jpg 614,305,995,784,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00139.jpg 344,94,529,332,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06576_o2.jpg 80,285,406,731,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11056.jpg 1384,359,1833,730,0 966,164,1255,439,0 570,179,750,357,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00187_o1.jpg 378,27,608,322,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03279.jpg 518,92,678,324,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05784.jpg 100,16,349,319,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03027.jpg 368,122,452,226,1 498,96,582,202,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11085.jpg 1255,362,1473,537,0 824,265,915,375,0 678,294,753,361,0 603,264,647,308,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00147_o2.jpg 28,1,565,464,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06732_o1.jpg 63,36,143,131,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07581_o2.jpg 716,78,835,253,0 164,70,285,250,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08493.jpg 219,45,442,366,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07830_o2.jpg 44,15,135,126,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11425_o2.jpg 1185,199,1308,334,0 561,187,799,487,0 1514,218,1735,510,0 1730,171,1869,343,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01322.jpg 470,44,634,292,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06650_o2.jpg 61,58,141,159,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00221_o1.jpg 215,43,353,189,0 674,66,793,201,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04678.jpg 332,264,384,342,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06066_o2.jpg 220,7,384,246,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06843_o2.jpg 56,11,269,255,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03055.jpg 512,75,640,248,1 541,592,618,683,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05334_o1.jpg 93,22,149,90,0 190,6,244,68,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02392.jpg 300,206,422,388,1 638,172,770,378,1 476,478,582,602,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02540.jpg 123,108,790,1039,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08901.jpg 73,66,222,274,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00740.jpg 430,121,714,433,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07926_o1.jpg 197,60,468,426,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00811.jpg 233,128,384,294,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03698.jpg 430,202,634,512,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10554.jpg 503,188,744,418,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08417.jpg 57,23,126,114,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07373_o1.jpg 198,132,317,323,0 650,300,666,363,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05324.jpg 155,45,208,109,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09056_o1.jpg 164,0,418,376,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08571_o2.jpg 115,143,293,414,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02205.jpg 188,124,454,494,1 412,138,682,502,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07254.jpg 685,2,752,86,1 402,64,458,154,0 647,38,700,107,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06203_o1.jpg 274,231,554,607,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11481_o1.jpg 1583,423,1669,529,0 1853,399,1958,534,0 963,488,1150,731,0 1113,432,1219,540,0 1236,207,1353,304,0 699,210,780,310,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10433.jpg 79,64,148,149,1 228,80,281,141,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07610_o2.jpg 292,86,415,251,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05971.jpg 156,98,281,271,0 630,130,740,252,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01560.jpg 600,68,676,210,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10085.jpg 346,145,372,178,1 411,143,445,184,1 477,171,508,211,1 524,135,548,181,1 229,140,267,185,1 131,136,174,171,1 82,149,118,187,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05334.jpg 93,22,149,90,0 190,6,244,68,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04810.jpg 466,324,505,374,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03926.jpg 290,172,370,276,1 754,202,870,324,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07200.jpg 51,31,148,141,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08781.jpg 61,79,241,356,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03322.jpg 520,58,612,174,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09326.jpg 459,99,617,356,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03901.jpg 416,170,536,342,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05674_o1.jpg 390,114,497,280,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11262.jpg 1377,485,1516,657,0 1583,385,1692,485,0 1723,291,1767,339,0 610,338,728,442,0 946,342,1027,414,0 1133,285,1196,343,0 1329,294,1372,330,0 1282,186,1314,214,0 1439,246,1476,290,0 1481,250,1513,286,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08110_o1.jpg 250,149,568,579,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05294_o1.jpg 70,69,245,268,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05482_o2.jpg 438,312,478,367,0 183,293,215,347,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02828.jpg 425,301,850,873,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10436.jpg 277,40,405,172,1 521,159,628,306,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02304.jpg 198,76,294,202,1 530,62,630,196,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08154.jpg 31,12,89,74,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00843.jpg 319,133,739,645,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07197_o1.jpg 98,1,290,221,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07789.jpg 280,67,436,299,0 104,546,239,759,0 445,591,602,818,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05868_o2.jpg 47,33,194,244,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01195.jpg 678,112,752,258,1 194,118,272,238,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00150.jpg 414,10,629,304,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01999.jpg 644,48,766,228,1 208,114,304,266,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09230.jpg 149,152,231,278,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01098.jpg 30,9,346,321,1 702,21,1024,393,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06208.jpg 206,92,551,575,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09048_o1.jpg 182,77,400,404,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11009_o2.jpg 1517,354,1593,423,0 1670,550,1785,666,0 1654,472,1717,543,0 1283,350,1350,403,0 1101,346,1159,395,0 817,338,873,393,0 928,441,984,529,0 643,377,682,428,0 560,397,604,458,0 509,439,575,508,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08725.jpg 198,150,343,351,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05228.jpg 105,50,170,134,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11612.jpg 1125,337,1269,493,0 1452,454,1549,609,0 1350,351,1458,495,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07637.jpg 602,135,645,179,0 700,82,742,142,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03039.jpg 385,95,625,391,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08256.jpg 528,126,680,336,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05308_o1.jpg 139,190,196,280,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11302.jpg 513,173,544,198,1 640,138,670,167,1 799,121,822,145,1 749,102,771,133,1 408,161,433,187,1 366,169,389,193,1 477,133,507,156,1 506,132,544,163,1 419,123,440,148,1 428,107,448,127,1 377,112,399,131,1 315,96,333,118,1 1021,61,1035,77,1 604,77,621,94,1 484,112,499,132,1 510,111,534,127,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11024_o1.jpg 1864,282,2071,433,0 1334,359,1410,434,0 1258,390,1299,428,0 1008,310,1110,403,0 704,371,784,481,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08212.jpg 427,100,474,161,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00864.jpg 225,313,351,442,1 428,264,541,403,1 597,247,721,403,1 780,220,948,414,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01037.jpg 274,112,778,815,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08748_o2.jpg 324,291,458,482,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06104_o1.jpg 212,140,480,477,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07633.jpg 134,63,192,134,1 252,61,310,131,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04777.jpg 663,88,720,171,1 293,233,323,277,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07048_o1.jpg 114,52,203,183,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05717_o1.jpg 129,109,286,298,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11145_o2.jpg 1352,350,1476,470,0 1610,337,1695,420,0 671,341,827,494,0 396,365,469,469,0 1093,259,1130,312,0 1852,297,1892,344,0 2079,211,2135,299,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05541_o2.jpg 527,119,825,504,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07158_o1.jpg 448,283,576,447,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07009.jpg 16,1,124,95,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05088_o1.jpg 243,68,300,148,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10997.jpg 640,483,880,679,0 994,473,1198,649,0 962,53,1095,170,0 1339,394,1549,613,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06485_o1.jpg 267,60,477,309,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11727.jpg 273,222,318,296,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01351.jpg 221,153,261,232,1 495,251,547,316,1 621,230,667,289,1 700,288,740,339,1 271,414,346,508,1 111,488,124,499,1 84,548,99,563,1 139,517,152,531,1 197,523,212,542,1 210,563,225,581,1 170,575,189,594,1 138,552,152,567,1 98,585,120,607,1 105,654,114,664,1 120,646,130,656,1 140,640,149,650,1 155,630,164,640,1 173,626,183,637,1 190,615,200,625,1 207,614,217,624,1 634,506,661,546,1 870,260,957,413,1 855,99,876,129,1 775,564,803,601,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11632.jpg 1194,151,1397,409,0 847,285,1020,448,0 458,460,603,613,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07612_o1.jpg 283,49,406,211,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07162_o2.jpg 101,91,277,368,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06040.jpg 192,57,429,372,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11082.jpg 188,20,234,80,1 341,27,387,90,1 527,60,549,90,1 450,71,470,100,1 428,63,446,88,1 20,58,36,74,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05754_o1.jpg 183,103,644,700,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08842_o1.jpg 643,81,958,468,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11255_o1.jpg 966,587,1144,758,0 1669,203,1768,341,0 1486,246,1585,349,0 1428,240,1491,334,0 1194,260,1273,343,0 1104,274,1186,358,0 956,232,1040,325,0 674,250,772,345,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08507.jpg 315,137,474,402,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06226_o1.jpg 289,327,515,651,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05275_o1.jpg 149,66,236,181,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05245.jpg 105,53,186,168,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07495_o2.jpg 46,60,92,118,0 254,74,295,125,0 341,73,374,126,0 446,26,475,80,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09198.jpg 425,31,571,240,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08609.jpg 145,22,615,647,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00433_o2.jpg 151,8,433,363,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10830.jpg 3948,356,5325,1780,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11063.jpg 1522,482,1583,539,0 867,459,916,514,0 1635,433,1661,459,0 1899,416,1936,449,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08823_o1.jpg 224,59,324,200,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08543.jpg 319,36,491,247,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05517_o1.jpg 47,0,137,112,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06754.jpg 232,241,516,585,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03191.jpg 614,164,732,318,1 262,110,372,256,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00276_o2.jpg 361,50,714,513,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11114_o1.jpg 1776,361,1846,433,0 1521,346,1565,401,0 1173,395,1235,448,0 817,346,886,410,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02614.jpg 300,351,762,1012,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00119_o1.jpg 372,171,574,462,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05884_o2.jpg 66,25,422,547,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06081_o1.jpg 420,45,600,282,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05078_o1.jpg 54,30,128,132,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10735.jpg 414,134,497,232,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11166.jpg 1212,339,1393,532,0 1747,424,1864,508,1 903,346,1056,483,0 790,505,857,580,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02744.jpg 311,121,642,693,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07332_o1.jpg 92,1,192,145,0 96,227,167,336,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00067_o1.jpg 370,53,641,385,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12317.jpg 264,82,274,97,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07443_o2.jpg 201,42,324,208,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11248_o1.jpg 1036,254,1080,301,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10959.jpg 1220,261,1441,459,0 755,377,991,690,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04161.jpg 506,114,584,226,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03681.jpg 458,202,710,530,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04776.jpg 21,9,667,655,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00100_o2.jpg 361,126,557,366,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11878.jpg 229,356,260,381,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01557.jpg 384,351,654,741,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05331_o1.jpg 55,26,87,64,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05948_o2.jpg 374,336,515,536,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11388.jpg 302,175,339,225,1 355,218,388,262,1 247,216,279,255,1 184,201,223,242,1 130,229,162,266,1 409,202,442,246,1 449,228,484,269,1 503,198,551,248,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09950.jpg 338,161,384,248,1 611,233,662,293,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02237.jpg 178,112,236,242,1 400,212,472,332,1 680,70,760,188,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07777_o1.jpg 235,135,472,433,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02529.jpg 460,110,640,367,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11617.jpg 880,320,949,403,0 269,267,363,381,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08510_o2.jpg 88,70,223,248,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09116.jpg 195,60,423,381,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07064_o2.jpg 339,297,671,717,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11550_o1.jpg 845,167,1000,349,0 266,413,386,535,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00313.jpg 482,94,657,308,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08142.jpg 29,10,125,133,0 104,241,160,298,1 316,41,493,238,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07933_o2.jpg 329,342,502,618,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08229.jpg 40,18,97,94,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08103.jpg 213,114,319,224,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07490.jpg 158,95,298,280,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11599.jpg 861,324,983,457,0 1485,313,1600,456,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03812.jpg 724,276,872,388,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07955.jpg 143,7,372,270,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05187_o1.jpg 102,53,171,136,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12205.jpg 107,75,404,424,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00347_o1.jpg 201,86,309,210,0 639,94,749,208,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06686_o2.jpg 160,18,374,308,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07202_o1.jpg 171,83,367,335,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00084_o2.jpg 418,29,522,174,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05951.jpg 89,14,166,110,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07699_o1.jpg 102,62,442,538,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06531.jpg 70,408,180,602,1 84,15,175,159,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00495_o2.jpg 514,34,763,401,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11049.jpg 82,49,157,173,1 210,87,279,194,1 367,37,469,162,1 271,42,357,150,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05210_o1.jpg 139,27,203,90,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07456_o2.jpg 222,177,505,548,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09939.jpg 194,54,264,101,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00229.jpg 515,107,646,257,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03690.jpg 440,256,756,684,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02178.jpg 274,196,391,365,1 545,268,659,410,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10790.jpg 53,28,108,103,1 96,34,143,103,1 205,71,249,127,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01740.jpg 88,90,404,590,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11023_o2.jpg 1753,403,1839,506,0 1594,377,1673,450,0 1493,364,1553,417,0 1224,352,1266,390,0 1067,369,1102,406,0 904,361,953,411,0 759,429,841,515,0 456,341,502,382,0 365,344,420,392,0 212,350,277,410,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06177.jpg 181,78,323,273,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11558.jpg 1142,254,1302,403,0 1695,304,1831,440,0 933,231,1003,332,0 1003,253,1072,335,0 838,254,944,354,0 716,229,813,367,0 806,274,858,356,0 369,215,513,374,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09046_o1.jpg 127,130,353,447,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06116_o2.jpg 209,38,561,550,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11553_o2.jpg 1731,604,1794,674,0 1405,581,1445,631,0 1367,584,1399,620,0 1147,596,1188,624,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09247.jpg 290,77,566,425,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03793.jpg 458,160,620,370,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02723.jpg 512,104,802,500,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00930.jpg 414,127,566,327,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08766_o1.jpg 193,137,310,280,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07740.jpg 85,16,226,214,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08468_o2.jpg 93,107,226,256,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10613.jpg 370,86,457,184,1 555,27,623,109,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02641.jpg 402,184,500,304,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01340.jpg 446,172,563,332,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06735.jpg 346,24,541,268,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05303_o1.jpg 166,79,202,114,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05587.jpg 212,168,308,301,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08127.jpg 175,106,276,253,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11174_o1.jpg 1938,215,2041,310,0 1389,293,1620,587,0 671,294,811,458,0 489,350,546,413,0 869,222,918,280,0 1119,314,1154,354,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01061.jpg 222,116,367,261,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11396.jpg 141,946,311,1159,1 450,995,582,1130,1 301,874,411,1016,1 4,843,116,993,1 163,796,274,915,1 1180,827,1273,936,1 1300,835,1366,939,1 1566,903,1638,1002,1 1671,892,1734,990,1 1813,914,1887,1004,1 2134,939,2236,1062,1 2323,905,2403,999,1 1963,914,2031,1004,1 1967,845,2025,912,1 2075,856,2135,920,1 2230,855,2290,921,1 1591,765,1640,822,1 1609,830,1660,895,1 1271,755,1339,829,1 1097,794,1158,861,1 1035,863,1122,946,1 811,750,888,848,1 708,750,782,825,1 1709,855,1757,914,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04558.jpg 414,134,532,265,1 585,226,651,307,1 757,239,830,313,1 292,227,351,294,1 222,302,267,368,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07543.jpg 231,86,471,395,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00463.jpg 265,8,521,319,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06433_o2.jpg 332,164,472,368,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11331.jpg 23,288,48,320,1 556,279,584,309,1 656,270,683,309,1 647,237,672,267,1 680,189,700,213,1 738,242,762,273,1 792,246,821,280,1 835,238,857,270,1 732,281,765,318,1 815,296,843,334,1 855,313,891,367,1 882,264,906,300,1 957,277,979,313,1 1019,294,1047,335,1 987,339,1017,381,1 983,244,1009,275,1 1047,254,1069,287,1 1106,314,1132,351,1 1094,262,1122,297,1 1067,238,1091,263,1 1134,237,1154,262,1 1115,216,1137,243,1 1075,219,1097,238,1 1026,208,1042,229,1 997,203,1025,227,1 1035,190,1053,209,1 1025,172,1041,190,1 1047,177,1062,198,1 1091,191,1110,212,1 1064,167,1079,188,1 283,234,294,252,1 350,210,367,223,1 314,251,332,279,1 353,263,371,282,1 403,239,432,269,1 433,199,451,218,1 497,234,512,256,1 466,223,482,245,1 501,204,520,220,1 498,186,510,201,1 547,179,566,201,1 522,168,537,186,1 475,175,493,195,1 550,227,573,253,1 613,218,633,240,1 625,182,641,201,1 656,181,674,201,1 581,181,598,202,1 567,161,586,180,1 714,175,734,197,1 725,164,748,185,1 735,146,751,166,1 641,159,666,175,1 766,203,782,225,1 775,166,792,186,1 826,182,844,200,1 883,195,903,211,1 941,191,953,212,1 900,175,912,197,1 910,163,923,181,1 851,147,873,167,1 858,170,877,194,1 825,153,844,174,1 803,145,821,159,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02067.jpg 691,225,889,486,1 437,401,635,674,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12190.jpg 115,106,243,258,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06378_o2.jpg 77,38,143,124,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03297.jpg 510,521,555,599,1 216,220,258,271,1 191,127,232,188,1 199,54,229,85,1 366,146,414,204,1 398,240,442,280,1 497,145,548,196,1 99,190,141,250,1 36,134,64,173,1 512,256,610,382,1 734,282,776,336,1 853,292,897,345,1 960,382,1006,450,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00220.jpg 16,115,161,303,0 282,181,414,362,0 566,229,686,384,0 765,170,905,354,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00033_o2.jpg 298,1,460,195,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05541_o1.jpg 527,119,825,504,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09796.jpg 1234,952,2290,1916,1 4186,960,4886,1496,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05781_o1.jpg 119,216,187,320,0 44,643,187,845,0 341,648,504,844,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11208.jpg 1510,605,1543,650,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10669.jpg 147,37,185,68,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12052.jpg 124,84,243,215,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00419.jpg 429,7,689,339,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11295.jpg 1499,357,1643,489,0 1380,439,1440,498,0 872,633,962,801,0 320,400,413,506,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00142_o2.jpg 325,19,588,358,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01583.jpg 338,86,528,376,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08936.jpg 61,38,110,105,1 219,1,230,15,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11151_o2.jpg 787,303,1178,636,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07285_o1.jpg 80,121,212,329,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06232_o2.jpg 213,53,308,171,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08859_o1.jpg 120,64,212,185,0 366,44,460,163,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11540_o1.jpg 805,73,1205,662,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04905.jpg 616,93,696,228,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06129_o2.jpg 193,57,296,211,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05140.jpg 233,99,428,361,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01748.jpg 8,62,102,188,1 106,50,222,232,1 220,36,380,228,1 412,32,646,326,1 688,34,836,230,1 846,34,966,214,1 954,64,1024,180,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01057.jpg 94,64,141,128,1 169,83,216,142,1 233,73,283,137,1 294,42,350,109,1 350,23,402,95,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08300.jpg 192,136,310,252,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12237.jpg 142,151,349,437,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10913.jpg 517,73,652,245,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06927_o2.jpg 157,49,187,92,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11823.jpg 68,51,139,145,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05263_o1.jpg 91,10,128,54,0 254,18,299,68,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02642.jpg 238,158,314,238,1 388,126,446,204,1 474,128,548,240,1 101,1,157,44,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01348.jpg 594,240,774,504,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01469.jpg 388,268,409,293,1 920,119,945,157,1 532,135,561,176,1 519,697,622,840,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00405_o1.jpg 288,60,577,407,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06196_o1.jpg 274,175,489,471,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03017.jpg 430,76,572,256,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00016_o2.jpg 540,32,699,209,0 794,131,834,172,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11079.jpg 1139,250,1526,584,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04896.jpg 467,61,485,96,1 500,56,516,84,1 500,98,513,123,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06847_o1.jpg 166,40,205,84,0 287,31,336,86,0 35,19,81,74,0 296,190,327,222,0 172,193,209,235,0 44,188,74,225,0 415,40,454,87,0 420,205,455,249,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00248.jpg 186,3,544,373,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00425_o2.jpg 416,83,653,403,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06048_o1.jpg 242,202,640,597,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03995.jpg 325,179,395,259,1 554,429,602,483,1 152,498,193,549,1 813,434,858,494,1 970,184,1024,279,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04498.jpg 423,228,634,504,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07065_o1.jpg 141,302,264,476,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05158_o2.jpg 126,166,203,278,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00508_o1.jpg 224,161,431,370,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01331.jpg 200,153,323,304,1 398,284,425,324,1 436,57,564,233,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06230_o1.jpg 331,250,475,409,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00490_o1.jpg 381,7,735,431,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00071_o1.jpg 2,148,256,464,0 506,22,863,416,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07124_o2.jpg 242,167,614,683,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07472_o2.jpg 57,123,351,554,0 498,200,787,569,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06279.jpg 506,1,652,135,1 272,65,438,232,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07223_o2.jpg 93,91,506,599,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07020.jpg 124,55,171,117,0 278,288,290,304,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08596_o1.jpg 127,108,296,319,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06877_o2.jpg 29,9,120,128,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03968.jpg 100,92,256,274,1 766,120,912,322,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06093.jpg 442,110,587,298,0 284,178,412,362,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09752.jpg 141,185,239,307,1 240,182,300,256,1 332,230,412,286,1 18,232,82,286,1 96,240,136,284,1 400,186,450,224,1 467,169,499,238,1 685,71,823,229,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11289.jpg 1263,519,1330,570,0 970,503,1041,565,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11268.jpg 757,199,1041,462,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08730_o2.jpg 182,127,241,206,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08335_o1.jpg 279,134,540,446,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05421_o1.jpg 49,0,163,145,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06619_o2.jpg 134,227,529,764,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08140_o1.jpg 311,114,467,308,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09380.jpg 94,104,170,200,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08994.jpg 353,236,391,293,0 230,228,272,290,0 422,225,435,248,1 92,390,112,420,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06864_o2.jpg 104,34,182,131,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07022_o1.jpg 119,99,278,301,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04801.jpg 604,28,712,162,1 540,229,655,373,1 814,130,848,174,1 112,61,135,92,1 122,79,148,100,1 313,41,341,83,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05857_o1.jpg 97,107,252,302,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05456_o2.jpg 309,125,554,453,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06839_o1.jpg 227,314,620,852,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07131.jpg 102,12,431,424,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06598.jpg 144,106,276,263,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07847_o1.jpg 318,98,521,370,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08854_o2.jpg 97,98,271,333,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02230.jpg 642,162,824,430,1 305,256,525,559,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02182.jpg 358,209,570,487,1 511,373,681,630,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01285.jpg 324,142,482,366,1 516,232,674,422,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04511.jpg 453,302,630,572,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09403.jpg 254,322,385,529,1 921,296,1069,501,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06515.jpg 70,150,317,462,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08488.jpg 123,69,193,166,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04632.jpg 416,93,560,317,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08844_o2.jpg 141,55,333,296,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01935.jpg 277,173,510,491,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04006.jpg 242,244,442,484,1 564,172,680,430,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04200.jpg 387,279,452,377,1 730,216,800,319,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05222.jpg 68,29,127,87,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07913_o1.jpg 84,33,172,163,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07632.jpg 193,83,567,555,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02709.jpg 448,194,542,310,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07880.jpg 133,35,180,86,1 275,57,327,112,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00270_o2.jpg 353,56,578,325,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10999.jpg 726,268,1139,628,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02511.jpg 130,312,152,335,1 254,295,272,317,1 799,274,813,291,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11546_o2.jpg 1158,315,1297,462,0 1380,276,1558,468,0 956,303,1083,479,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06941.jpg 117,234,347,601,0 368,226,603,598,0 304,18,380,122,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01769.jpg 134,64,290,306,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10116.jpg 112,75,314,256,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06334.jpg 224,100,557,536,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07496_o1.jpg 152,103,429,453,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08408.jpg 221,67,642,589,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11548_o2.jpg 1424,296,1522,426,0 452,376,705,593,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05920_o2.jpg 268,12,644,561,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02703.jpg 34,12,542,630,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11033_o1.jpg 1635,232,1876,446,0 1518,435,1592,538,0 1494,441,1524,504,0 996,410,1052,476,0 919,424,963,470,0 782,424,824,471,0 509,346,621,442,0 289,431,332,468,0 418,428,445,462,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04027.jpg 134,136,256,310,1 348,166,458,332,1 506,144,600,322,1 782,94,882,294,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03088.jpg 185,231,211,255,1 69,242,90,258,1 172,241,189,257,1 335,174,367,213,1 258,189,287,231,1 427,230,450,261,1 450,186,489,232,0 519,216,544,251,1 612,84,658,146,1 831,179,871,215,1 775,234,808,264,1 1006,258,1024,279,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00238_o1.jpg 440,89,598,286,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00883.jpg 152,20,643,633,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04370.jpg 208,61,283,166,1 716,80,790,174,1 930,162,973,217,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08828_o1.jpg 223,114,366,295,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06437_o2.jpg 252,165,556,527,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07272.jpg 337,78,568,387,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12360.jpg 245,47,306,135,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04813.jpg 293,345,700,849,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06407_o1.jpg 30,9,158,210,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00987.jpg 221,102,812,774,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10359.jpg 308,148,474,287,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02292.jpg 200,44,356,214,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00106_o2.jpg 317,58,612,438,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05457_o2.jpg 288,133,355,233,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04554.jpg 122,108,320,360,1 748,54,818,158,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09084.jpg 99,1,344,326,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09663.jpg 33,592,477,974,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06761_o1.jpg 75,126,466,619,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10002.jpg 308,308,368,405,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05708.jpg 162,351,321,548,0 504,279,616,410,0 523,604,642,731,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05443_o2.jpg 388,124,444,201,0 179,168,228,231,0 272,174,320,234,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06955_o1.jpg 303,60,435,260,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00449_o1.jpg 355,128,484,262,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02159.jpg 665,83,704,141,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05134_o1.jpg 135,1,677,755,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02420.jpg 382,484,436,560,1 524,528,594,600,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05456.jpg 309,125,554,453,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06635.jpg 84,91,182,233,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03023.jpg 537,213,793,643,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11683.jpg 306,357,340,399,1 625,166,685,248,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00319_o1.jpg 445,17,706,305,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09590.jpg 197,68,320,153,1 559,227,604,271,1 627,262,676,313,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08458_o1.jpg 285,148,462,367,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07661_o1.jpg 233,139,518,506,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11644.jpg 119,94,146,134,1 199,121,230,160,1 290,119,317,159,1 346,113,372,150,1 396,125,424,163,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03202.jpg 650,100,780,262,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11241.jpg 478,399,564,540,0 688,392,742,478,0 1238,414,1298,478,0 1122,467,1171,518,0 990,434,1062,499,0 910,451,963,507,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00064_o1.jpg 407,48,604,285,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01056.jpg 684,166,823,311,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02836.jpg 445,195,645,486,1 915,837,1003,962,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10925.jpg 265,204,364,316,1 74,122,210,285,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03115.jpg 214,306,466,660,1 496,106,780,496,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01852.jpg 558,94,670,246,1 210,180,306,306,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12248.jpg 167,317,214,388,1 305,346,344,407,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00379.jpg 366,81,557,321,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02926.jpg 272,126,476,366,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02039.jpg 351,204,702,693,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08878.jpg 151,66,267,246,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11243.jpg 1748,236,1795,282,0 2066,213,2110,258,0 2034,255,2060,281,0 1943,270,1967,297,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12373.jpg 600,627,696,785,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08997_o2.jpg 174,95,326,280,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_12002.jpg 220,85,271,134,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08449_o1.jpg 163,118,396,430,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08819_o2.jpg 380,56,520,253,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00102.jpg 377,87,494,227,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03373.jpg 146,400,326,602,1 436,236,594,442,1 718,68,842,270,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06858_o2.jpg 256,147,601,574,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11083.jpg 1144,264,1510,582,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06805_o2.jpg 131,47,354,400,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01256.jpg 245,167,323,302,1 685,154,771,310,1 216,443,299,581,1 696,469,782,625,1 245,805,336,969,1 758,831,844,964,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00269_o2.jpg 242,79,467,314,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01851.jpg 393,243,504,414,1 676,75,802,252,1 943,9,1021,123,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04472.jpg 436,122,670,410,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03593.jpg 336,142,696,576,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11252_o2.jpg 1101,337,1390,562,0 535,555,600,617,0 300,589,395,684,0 881,540,925,598,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08430_o2.jpg 267,145,328,235,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00659.jpg 318,135,425,259,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04373.jpg 439,85,563,282,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08694.jpg 475,107,701,411,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00083_o2.jpg 417,117,561,282,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07450_o1.jpg 424,216,502,327,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10029.jpg 193,162,424,379,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06777_o2.jpg 237,130,354,232,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07906.jpg 416,96,474,162,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07195_o2.jpg 159,166,322,411,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00500.jpg 392,39,650,336,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05765_o1.jpg 96,1,449,417,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06750_o1.jpg 83,45,254,271,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05122_o2.jpg 80,58,158,143,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08860_o2.jpg 139,49,191,116,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10119.jpg 92,107,173,166,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00756.jpg 343,170,423,264,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11244_o2.jpg 1922,394,1963,448,0 1763,360,1814,407,0 758,360,829,434,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05816_o1.jpg 49,66,224,343,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04306.jpg 437,157,621,446,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00121_o2.jpg 463,64,611,228,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06867_o2.jpg 11,35,77,126,0 108,96,166,173,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11304.jpg 280,38,316,94,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05175_o2.jpg 82,154,122,215,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09033_o1.jpg 183,58,293,194,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00270_o1.jpg 353,56,578,325,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04535.jpg 627,201,746,349,1 270,130,390,281,1 186,279,203,296,1 207,276,219,291,1 101,277,112,290,1 474,267,484,279,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08649.jpg 70,34,141,123,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07328.jpg 221,193,522,557,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08868.jpg 311,112,462,323,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08548.jpg 215,49,265,126,0 349,108,390,171,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03764.jpg 412,256,881,846,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10454.jpg 27,33,39,53,1 128,28,141,43,1 166,20,183,38,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06548_o2.jpg 318,81,533,389,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04543.jpg 373,111,686,590,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_04050.jpg 312,652,486,937,1 390,601,657,871,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11301.jpg 535,165,549,185,1 581,176,599,194,1 484,92,505,117,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07354_o1.jpg 240,125,482,482,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08912_o2.jpg 117,51,218,181,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06365_o1.jpg 204,194,513,577,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00197_o1.jpg 285,15,597,408,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05415.jpg 21,216,68,285,1 245,183,308,271,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09943.jpg 208,75,254,113,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01696.jpg 524,94,652,284,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07053_o1.jpg 470,310,675,580,0 139,191,366,525,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08078.jpg 155,174,505,703,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11021_o2.jpg 1305,476,1438,587,0 1094,361,1186,475,0 1344,244,1378,276,0 765,302,825,361,0 1186,290,1216,327,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00017_o2.jpg 530,19,777,341,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_11636_o2.jpg 891,324,1302,629,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_01442.jpg 8,120,54,188,1 131,164,173,218,1 44,278,104,356,1 245,253,312,356,1 292,191,337,247,1 386,150,436,225,1 474,295,546,391,1 590,121,646,190,1 647,164,682,213,1 711,194,737,235,1 756,138,797,208,1 881,142,929,205,1 870,275,954,397,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_03618.jpg 331,179,551,466,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08619.jpg 475,132,676,380,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_07399.jpg 127,44,417,453,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_08490.jpg 187,185,278,314,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_02849.jpg 453,333,696,653,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10689.jpg 672,97,1165,594,1 1554,197,2117,780,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_10783.jpg 150,147,352,370,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06721.jpg 12,0,176,158,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_09152.jpg 518,98,682,301,1
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_00405_o2.jpg 288,60,577,407,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06046_o1.jpg 97,99,443,513,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_05962_o2.jpg 45,0,110,78,0
+/home/zhangtj/MaskDetect/VOC_data/VOC_mask/img/mask_06465.jpg 1,280,511,625,0
