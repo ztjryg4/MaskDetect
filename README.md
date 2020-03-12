@@ -121,7 +121,7 @@ VOC_mask
 
 ## 引用及致谢  
 
-训练使用了 hikariming， AIZOO, hamlinzheng 公开的口罩检测数据集  
+训练使用了 hikariming, AIZOO, hamlinzheng 公开的口罩检测数据集  
 
 Keras-YOLOv3 框架来自：[qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3)  
 
