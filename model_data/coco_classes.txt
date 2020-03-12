@@ -1,2 +1,2 @@
-havemask
 nomask
+havemask
